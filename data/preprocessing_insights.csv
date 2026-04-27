@@ -1,0 +1,17 @@
+﻿metric,high_value,low_value,difference
+like_rate,0.1033,0.0047,0.0986
+view_count,2410.578,12554.4716,-10143.8936
+like_count,84.5596,15.4459,69.1138
+comment_count,10.5101,2.5927,7.9174
+duration_seconds,910.0624,292.4798,617.5826
+post_hour,10.9046,10.5486,0.356
+desc_length,391.6587,336.4055,55.2532
+hashtag_count,10.0606,11.4459,-1.3853
+title_hashtag_count,2.9229,3.5229,-0.6
+desc_hashtag_count,7.1376,7.9229,-0.7853
+has_question_mark,0.0917,0.0514,0.0404
+has_exclamation,0.1688,0.1248,0.044
+is_vlog,0.4789,0.5284,-0.0495
+is_short,0.2514,0.3596,-0.1083
+is_daily_life,0.2,0.2165,-0.0165
+is_first_video,0.1706,0.1486,0.022
