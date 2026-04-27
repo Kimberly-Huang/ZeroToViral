@@ -1,6 +1,5 @@
 # YouTube Market Entry Strategy for New Creators
 
-**Columbia University — APAN 5205 Machine Learning II (Spring 2026)**
 
 A data-driven study on how micro-creators (< 10K subscribers) can successfully break into the YouTube market. Using the YouTube Data API and a pipeline of four ML models — K-Means Clustering, NLP Analysis, Tag Strategy (Association Rules), and Time-Series Posting Analysis — we extract actionable recommendations for new channel growth.
 
@@ -148,12 +147,6 @@ Videos from channels with **> 10,000 subscribers**, used as a benchmark comparis
 - **Golden Window Score**: Micro performance rank − Large channel density rank
 - Breakdown by content type (Vlog / Short / Daily Life), category, duration, and channel maturity
 
----
-
-## Team
-
-Columbia University APAN 5205 — Machine Learning II, Spring 2026
-- Final project submitted for course credit
 
 ---
 
