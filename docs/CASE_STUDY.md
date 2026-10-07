@@ -1,12 +1,12 @@
 # YouTube market entry strategy for micro-creators
 
-## Executive perspective
+## Executive summary
 
-ZeroToViral investigates a practical problem: a new creator must make content and distribution decisions before having enough channel-specific evidence to know what works. The team assembled YouTube video metadata and public engagement measures, compared micro-creators with larger channels, and examined market profiles, language, hashtags and publication timing.
+ZeroToViral investigates a practical problem: a new creator must make content and distribution decisions before having enough channel-specific evidence to know what works. The analysis uses YouTube video metadata and public engagement measures to compare micro-creators with larger channels across market profiles, language, hashtags and publication timing.
 
-The clearest reproduced findings concern **differences within the sampled content**. Videos in the higher-like-rate half contain more positive combined text and distinctive cultural or identity vocabulary. Their fitted topics are more evenly distributed. Hashtag analysis separates videos with reach from videos with a higher share of likes, while posting-time analysis identifies candidate windows whose reliability depends heavily on sample size.
+The results describe **differences within the sampled content**. Videos in the higher-like-rate half contain more positive combined text and distinctive cultural or identity vocabulary. Their fitted topics are more evenly distributed. Hashtag analysis separates videos with reach from videos with a higher share of likes, while posting-time analysis identifies candidate windows whose reliability depends heavily on sample size.
 
-The original report translated those findings into a creator playbook. This retrospective retains the useful decision framework and qualifies claims that the data cannot establish: no intervention was run, no channel growth was tracked over time, and public view counts do not reveal recommendation impressions, retention or revenue. The result is an exploratory strategy study with an auditable set of hypotheses.
+The study is observational: no intervention was run, no channel growth was tracked over time, and public view counts do not reveal recommendation impressions, retention or revenue. Results describe associations and provide hypotheses for subsequent testing.
 
 ## 1. Project context and intended decisions
 
@@ -21,13 +21,9 @@ The main question is: **What can observed content and engagement patterns tell a
 | Hashtag strategy | How do reach and engagement differ across hashtag choices? | Median-based quadrants, tag ranking and Apriori | Views, like rate and within-group hashtag co-occurrence |
 | Timing and duration | Which publication windows merit channel-specific testing? | Weekday/hour aggregation and rank differences | Median accumulated views and sampled posting density |
 
-Success for this study means useful, transparent evidence and a defensible next experiment. It does not mean demonstrating that following the recommendations will make a channel viral.
+## 2. Data foundation
 
-## 2. Source reconstruction and data foundation
-
-The supplied project material contained a final Word report, a 43-slide presentation, final and working notebooks for each analytical phase, preprocessing exports, and an earlier Data Architect phase. The previous public repository had notebooks and data, but lacked the final report and presentation and mixed findings from different analytical versions.
-
-The reconstruction inventories 19 source files. Four CSVs exactly match files already in the public repository. All supplied sources are now mapped to maintained repository locations with SHA-256 hashes. Original report and slide bytes remain unchanged. A literal API credential was removed from the public copy of the original collection notebook; the local source remains untouched. The [source archive](../archive/README.md) preserves both the submission and the earlier GitHub notebooks.
+The analysis uses four preserved CSV snapshots, a final research report, and analytical notebooks. The [source manifest](../archive/source-manifest.csv) records file mappings and SHA-256 hashes.
 
 ### Collection strategy
 
@@ -51,7 +47,7 @@ The dataset is strongly shaped by the search phrases and the date-ordered collec
 
 ## 3. Market segmentation and the importance of consistent features
 
-The original exploration moved through an early three-cluster model and a final four-archetype narrative: Rising Stars, Community Builders, Authority Archives and Viral Elite. The analytical motivation was sensible: raw view counts largely reflect size, so the team considered performance ratios and duration to describe different content profiles.
+The original exploration moved through an early three-cluster model and a final four-archetype narrative: Rising Stars, Community Builders, Authority Archives and Viral Elite. Raw view counts reflect channel scale as well as content performance. Performance ratios and duration provide additional dimensions for comparing video profiles.
 
 However, the submitted notebook mixes `views / (subscribers + 1)` with a later assignment of `like_rate / view_count` under the same efficiency column name. It also relies on undefined state and carries labels across a PCA refit. Consequently, the original efficiency magnitudes and “growth lever” ratios cannot be accepted as a consistent final model.
 
@@ -117,7 +113,7 @@ The final bigram code uses filtered full-text tokens from videos with compound >
 
 ## 5. Hashtag strategy across reach and engagement
 
-The tag analysis's most useful contribution is separating accumulated views from like rate. Median splits create four groups in the reconstructed micro cohort.
+The tag analysis separates accumulated views from like rate. Median splits create four groups in the reconstructed micro cohort.
 
 | Quadrant | Video records | Interpretation |
 |---|---:|---|
@@ -128,7 +124,7 @@ The tag analysis's most useful contribution is separating accumulated views from
 
 These labels are shorthand for relative sample positions. They are not absolute measures of business effectiveness or viewer quality.
 
-Tag rankings require at least ten videos per tag. The original report grouped top tags into identity, content-specific, audience-descriptor and format-chasing categories, with an additional ambiguous category in code. The frequently repeated “74%” headline adds rounded category percentages; the underlying 11 of 15 tags is 73.3%. Labels and some figure weights were entered manually, so the maintained pipeline exports factual tag rankings without treating the taxonomy as an automatic classifier.
+Tag rankings require at least ten videos per tag. The tag analysis grouped top tags into identity, content-specific, audience-descriptor and format-chasing categories, with an additional ambiguous category in code. The frequently repeated “74%” headline adds rounded category percentages; the underlying 11 of 15 tags is 73.3%. Labels and some figure weights were entered manually, so the maintained pipeline exports factual tag rankings without treating the taxonomy as an automatic classifier.
 
 ### Association rules
 
@@ -182,16 +178,14 @@ A creator-facing next step should use the exploratory evidence to design a small
 
 This design would turn the existing descriptive work into evidence about actions. It still requires the creator's cooperation and access to appropriate channel analytics.
 
-## 8. Retrospective lessons and project contribution
+## 8. Conclusions
 
-The project successfully translates an ambiguous market-entry question into four tractable workstreams. The reach-versus-like-rate distinction is useful, the NLP results are reproducible, and the combined workflow demonstrates API ingestion, feature engineering, unsupervised learning, text analysis and association mining.
+The sample shows differences in text sentiment, topic concentration and video performance profiles. The sentiment and topic results reproduce under the documented NLP specification. Hashtag quantity has a weak association with like rate, and the highest publication-time scores include cells with very few observations.
 
-The primary weaknesses are integration and inference. Intermediate files drifted between team members, field names changed without adapters, notebook state was not captured completely, and numerical outputs were sometimes promoted into stronger strategy claims than the design supports. The original repository presented code before giving readers a reliable map of the final evidence.
+Interpretation depends on cohort definitions, metric construction and sample support. The corrected clustering uses a consistent efficiency definition; hashtag summaries account for all cohort rows; publication-time tables expose cell counts. Remaining limitations include keyword-based sampling, unequal video exposure periods, repeated channel observations, incomplete text coverage and the absence of prospective intervention data.
 
-The reconstruction addresses those weaknesses with unchanged source snapshots, explicit cohorts, a shared executable implementation, result tables with denominators, five regenerated figures, a source manifest and a claim-level audit. It also keeps original final artifacts accessible, including imperfect or duplicated material, so readers can trace how the work evolved.
-
-For a professional portfolio, the defensible contribution is an end-to-end exploratory analytics study that connects data to business decisions and critically evaluates its own limitations. There is no evidence here of measured revenue lift, follower growth, deployed recommendations or sole ownership by one contributor. The team credits in the original presentation are retained in the [project overview](../README.md).
+Further validation requires representative sampling, fixed-age performance measurements and controlled comparisons of creator decisions. The current findings describe the observed dataset and do not estimate incremental subscriber or revenue outcomes.
 
 ## Source navigation
 
-The [original final report](../reports/original/final-report-original.docx) contains the submitted narrative; the [presentation](../reports/original/presentation-original.pptx) contains the team credits and visual summary. The [evidence audit](EVIDENCE_AUDIT.md) identifies exact disagreements. The [results index](../results/README.md) links the recomputed numerical outputs, and the [reproducibility guide](REPRODUCIBILITY.md) records how they were generated.
+The [original final report](../reports/original/final-report-original.docx) contains the submitted narrative. The [evidence audit](EVIDENCE_AUDIT.md) identifies exact disagreements. The [results index](../results/README.md) links the recomputed numerical outputs, and the [reproducibility guide](REPRODUCIBILITY.md) records how they were generated.

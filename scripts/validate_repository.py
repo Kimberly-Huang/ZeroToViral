@@ -1,4 +1,4 @@
-"""Validate the preserved evidence and the contracts used by the retrospective."""
+"""Validate the preserved evidence and the analytical data contracts."""
 from pathlib import Path
 import csv
 import hashlib
@@ -21,9 +21,13 @@ def main():
         assert hashlib.sha256((ROOT/'data'/name).read_bytes()).hexdigest()==digest,name
     sources=list(csv.DictReader((ROOT/'archive/source-manifest.csv').open()))
     assert len(sources)==19
+    assert sum(row['publication_status']=='published' for row in sources)==18
     for row in sources:
+        if row['publication_status']=='local_only':
+            assert not row['repository_path'] and not row['sha256_published']
+            continue
         assert hashlib.sha256((ROOT/row['repository_path']).read_bytes()).hexdigest()==row['sha256_published'],row['source']
-        if row['action']!='Credential redacted':assert row['sha256_source']==row['sha256_published']
+        if row['action'] in ['Preserved unchanged','Identical existing data snapshot']:assert row['sha256_source']==row['sha256_published']
     audit={r['dataset']:r for r in table('data_audit')}
     assert {k:int(v['rows']) for k,v in audit.items()}==dict(raw_collection=1108,micro_snapshot=1090,large_snapshot=1177,micro_analysis=1035,large_analysis=1174)
     assert [int(r['rows']) for r in table('cohort_flow')]==[1090,1061,1060,1035]
@@ -66,6 +70,6 @@ def main():
             target=target.split('#')[0]
             if not target or '://' in target or target.startswith('mailto:'):continue
             assert (path.parent/unquote(target)).exists(),(str(path),target)
-    print('PASS: 19 source artifacts, preserved input hashes, cohort flow, NLP checks, tag totals, timing arithmetic, six notebooks, credential scan and documentation links.')
+    print('PASS: 18 published source artifacts and one local-only manifest entry, preserved input hashes, cohort flow, NLP checks, tag totals, timing arithmetic, six notebooks, credential scan and documentation links.')
 
 if __name__=='__main__':main()

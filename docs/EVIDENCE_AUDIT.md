@@ -24,10 +24,10 @@ This audit compares the final Word report, original presentation, saved notebook
 |---|---|---|
 | Three vs four archetypes | Previous README mixed an early K=3 model with final K=4 labels | Document four historical archetypes and label the corrected rerun separately. |
 | Efficiency definition | Early code uses `views / (subscribers + 1)`, but submitted cell 11 overwrites `df_combined['efficiency_ratio']` with `like_rate / view_count` | The maintained specification consistently uses views per subscriber-plus-one. Saved “final” output has efficiency values on the incompatible scale, so old efficiency magnitudes and growth multipliers are not reliable. |
-| Report's “Viral Elite” efficiency 184.1 and 36× lever | Not supported by the saved final profiling table | Do not repeat as verified performance. Corrected cluster profiles are exported without attaching old numeric IDs to new groups. |
+| Report's “Viral Elite” efficiency 184.1 and 36× lever | Not supported by the saved final profiling table | The saved output does not verify these magnitudes. Corrected cluster profiles use independent numeric IDs. |
 | K=4 best silhouette | Report says silhouette favors four, while the submitted path shows elbow/PCA experiments and incomplete state | The corrected rerun's K=3 silhouette is 0.592 versus 0.482 for K=4. Four remains an interpretive comparison, not an optimality claim. |
 | Cluster names on PCA plot | `market_segment` was created before PCA refit and not updated before a plot | New plots use current numeric cluster IDs. Historical semantic labels are discussed as analyst interpretations. |
-| Long videos imply retention/authority | Duration is measured, watch retention is not | Describe long-duration content; do not infer high retention or brand equity. |
+| Long videos imply retention/authority | Duration is measured, watch retention is not | Duration supports a length-based profile; retention and brand equity were not measured. |
 | Archetype transitions prove a growth lifecycle | Cross-sectional observations do not track transitions | Present possible strategic positions, not an observed creator progression. |
 | Pets & Animals is a market-wide “blue ocean” | The chart hard-codes a demand/supply summary. Demand means average views and supply means sampled video count | Retain as a historical hypothesis. Sample proportions and age/scale confounding prevent a platform-wide opportunity claim. |
 
@@ -41,7 +41,7 @@ This audit compares the final Word report, original presentation, saved notebook
 | `assamese` appears only in High | High 0.106422; Low 0.001835 tokens/video | Low has a nonzero occurrence. “Exclusive” is incorrect for this term. |
 | High topic shares all around 22–27% | Actual range 9.91–26.79% | Correct the deck's simplified heading. |
 | Low top-topic share 39.0% | Recomputed 38.8991%, versus High 26.7890% | Approximately 38.9% at one decimal, not exactly 39.0%. Entropies 1.564818 and 1.507096 reproduce. |
-| Topic concentration proves market saturation | Separate LDA models have different topics and vocabularies | Discuss sample concentration only; matched topics, stability checks and representative supply data would be needed. |
+| Topic concentration proves market saturation | Separate LDA models have different topics and vocabularies | This measures sample concentration. A market-level comparison would require matched topics, stability checks and representative supply data. |
 | Positive **comment** bigrams with sentiment >0.5 | Final code selects **full-text** sentiment >0.8 and uses full-text tokens | Maintained code follows the actual implementation and names the output accordingly. Repeated phrases cannot establish spam or insincere audience behavior. |
 | Four or five pillars with a 25% cap | Recommendation in the report | Unvalidated heuristic. Five fitted topics do not prove a creator should use five content pillars. |
 
@@ -80,8 +80,6 @@ Monday/Tuesday comprise 893/1,090 = 81.93% of the micro snapshot and 845/1,035 =
 
 The duration analysis supports a sample-level trade-off: micro videos of 0–60 seconds have median 917 views and 1.31% like rate, while 60–600-second videos have 207 views and 3.21%, and >600-second videos have 244 views and 5.26%. Therefore “1–10 minutes maximizes engagement” is too strong. Official Shorts eligibility also involves criteria beyond a 60-second cutoff, as described in [YouTube guidance](https://support.google.com/youtube/answer/15424877).
 
-## Presentation and business claims
+## Scope of outcomes
 
-The 43-slide original file contains image-only evidence, duplicate slides and unrelated SWOT/template slides. It is preserved unchanged and labeled as an original artifact. No claims of current platform market size, channel failure rate, creator concentration or measured business growth are promoted from its introductory slides without independently supported evidence.
-
-The project demonstrates an exploratory research workflow and interpretable decision framing. The supplied evidence does not show a live deployment, an experiment with creators, incremental subscribers, revenue impact or a validated prediction system.
+The available data measures public video metadata and recorded engagement. It does not contain intervention outcomes, incremental subscribers, revenue measurements or deployment metrics. Platform-wide market size, channel failure rates and creator concentration are outside the scope of this analysis.

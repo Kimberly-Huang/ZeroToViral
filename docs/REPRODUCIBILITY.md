@@ -1,6 +1,6 @@
 # Reproducing the analysis
 
-The repository now has two explicit layers. `archive/` and `reports/original/` preserve the submitted work. `scripts/analyze.py` and `notebooks/` provide the reconstructed, executable analysis. The reconstruction documents corrections instead of silently overwriting the historical evidence.
+`archive/` and `reports/original/` contain analysis sources and the research report. `scripts/analyze.py` and `notebooks/` provide the executable analysis. Source hashes and publication status are recorded in the source manifest.
 
 ## Environment and execution
 

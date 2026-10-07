@@ -1,6 +1,6 @@
 # Recomputed evidence
 
-These files were generated from the preserved CSV snapshots by [`scripts/analyze.py`](../scripts/analyze.py). They are a documented reconstruction, with corrections and sensitivity checks, rather than a claim that every original result has been reproduced unchanged. [`run_manifest.json`](run_manifest.json) records input hashes, packages and specifications.
+These files were generated from the preserved CSV snapshots by [`scripts/analyze.py`](../scripts/analyze.py). They use the cohort definitions, model specifications and sensitivity checks documented in the reproducibility guide. [`run_manifest.json`](run_manifest.json) records input hashes, packages and specifications.
 
 ## Figures
 
