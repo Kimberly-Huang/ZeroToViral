@@ -1,0 +1,11 @@
+dataset,field,nonempty,rows,coverage
+micro_snapshot,description,623,1090,0.571559633
+micro_analysis,description,592,1035,0.5719806763
+micro_snapshot,tags,332,1090,0.304587156
+micro_analysis,tags,315,1035,0.3043478261
+micro_snapshot,top_comments_text,404,1090,0.3706422018
+micro_analysis,top_comments_text,402,1035,0.3884057971
+micro_snapshot,hashtags_from_title,755,1090,0.6926605505
+micro_analysis,hashtags_from_title,727,1035,0.7024154589
+micro_snapshot,hashtags_from_desc,502,1090,0.4605504587
+micro_analysis,hashtags_from_desc,477,1035,0.4608695652

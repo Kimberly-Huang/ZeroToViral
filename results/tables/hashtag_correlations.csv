@@ -1,0 +1,8 @@
+count_definition,method,r,p,n
+hashtag_count,pearson,-0.02339913835,0.4520650697,1035
+hashtag_count,spearman,-0.117982884,0.0001421574089,1035
+hashtag_count,partial_pearson_log1p_subscribers,-0.01442575382,0.6431237658,1035
+unique_hashtag_count,pearson,-0.0336873782,0.2789112603,1035
+unique_hashtag_count,spearman,-0.09380827448,0.002519730545,1035
+unique_hashtag_count,partial_pearson_log1p_subscribers,-0.02488012456,0.4241755734,1035
+hashtag_count,partial_pearson_views_subscribers_duration,-0.02292964529,0.4618443201,1035

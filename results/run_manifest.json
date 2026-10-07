@@ -1,0 +1,25 @@
+{
+  "python": "3.13.7",
+  "packages": {
+    "pandas": "3.0.6",
+    "numpy": "2.5.3",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2",
+    "nltk": "3.10.3",
+    "mlxtend": "0.25.0"
+  },
+  "data_sha256": {
+    "large_clean.csv": "7aa9ee9118354497b9fd7e8141270acac25da583b2d49c1406ed7f820393e68b",
+    "micro_clean.csv": "1cbddb20fac0cce29cd3b642064b86a71758c07b607c96df6d96eeea1e57a3e5",
+    "preprocessing_insights.csv": "5664102b268591273c649db0b331d6a42f65f81e2e96537a4830b14b6563d0f7",
+    "raw_collection.csv": "39dcb2d9865ffdceb7c88bce144bdbb696d09c2950e634e63e4891a106746a45"
+  },
+  "random_state": 42,
+  "cluster_specification": "views/(subscribers+1), log1p, StandardScaler, PCA(2), KMeans(4,n_init=10)",
+  "nlp_cohort": "original 1090 rows, original 545/545 labels",
+  "quantitative_cohorts": "1035 micro, 1174 large; explicit positive-subscriber filter",
+  "timing_minimum_support_sensitivity": 5,
+  "analysis_source_sha256": "8f837daae2ca2e1a101d97c3e239f8926ec980612b06b182b90916b9c691249b",
+  "vader_lexicon_zip_sha256": "8adba4294eef3964d820bf655e37e61bdc3a341994356af59b74fb3b4a36ce5c"
+}

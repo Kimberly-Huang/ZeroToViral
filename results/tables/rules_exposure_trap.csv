@@ -1,0 +1,1559 @@
+antecedents,consequents,support,confidence,lift
+dailyvlog | lifestylevlog,indianvlogger,0.02592592593,0.875,23.625
+indianvlogger,dailyvlog | lifestylevlog,0.02592592593,0.7,23.625
+dailyvlog | indianvlogger,lifestylevlog,0.02592592593,0.7777777778,23.33333333
+lifestylevlog,dailyvlog | indianvlogger,0.02592592593,0.7777777778,23.33333333
+indianvlogger,lifestylevlog,0.02592592593,0.7,21
+lifestylevlog,indianvlogger,0.02592592593,0.7777777778,21
+shorts | trending | ytshorts,shortvideo | viral,0.02592592593,0.7,18.9
+shortvideo | viral,shorts | trending | ytshorts,0.02592592593,0.7,18.9
+studymotivation | studyvlog,studyroutine,0.03333333333,0.6,18
+studyroutine,studymotivation | studyvlog,0.03333333333,1,18
+studymotivation | studyvlog,studyroutine | studywithme,0.02592592593,0.4666666667,18
+studyroutine | studywithme,studymotivation | studyvlog,0.02592592593,1,18
+studymotivation | studyvlog | studywithme,studyroutine,0.02592592593,0.5833333333,17.5
+studyroutine,studymotivation | studyvlog | studywithme,0.02592592593,0.7777777778,17.5
+shorts | shortvideo | viral,trending | ytshorts,0.02592592593,0.7777777778,16.15384615
+studymotivation | studyroutine,studyvlog | studywithme,0.02592592593,0.7777777778,16.15384615
+studyroutine,studyvlog | studywithme,0.02592592593,0.7777777778,16.15384615
+studyvlog | studywithme,studymotivation | studyroutine,0.02592592593,0.5384615385,16.15384615
+studyvlog | studywithme,studyroutine,0.02592592593,0.5384615385,16.15384615
+trending | ytshorts,shorts | shortvideo | viral,0.02592592593,0.5384615385,16.15384615
+keşfet,aesthetic | vlog,0.02592592593,1,15.88235294
+aesthetic | vlog,keşfet,0.02592592593,0.4117647059,15.88235294
+studentlife | studywithme,studymotivation | studyvlog,0.02592592593,0.875,15.75
+studymotivation | studyvlog,studentlife | studywithme,0.02592592593,0.4666666667,15.75
+shorts | shortvideo,trending | viral | ytshorts,0.02592592593,0.5384615385,14.53846154
+shortvideo | viral,trending | ytshorts,0.02592592593,0.7,14.53846154
+studentlife | studymotivation,studyvlog | studywithme,0.02592592593,0.7,14.53846154
+studyvlog | studywithme,studentlife | studymotivation,0.02592592593,0.5384615385,14.53846154
+trending | viral | ytshorts,shorts | shortvideo,0.02592592593,0.7,14.53846154
+trending | ytshorts,shortvideo | viral,0.02592592593,0.5384615385,14.53846154
+preppy,aesthetic | vlog,0.02592592593,0.875,13.89705882
+aesthetic | vlog,preppy,0.02592592593,0.4117647059,13.89705882
+food | shorts | viral,youtubeshorts | ytshorts,0.02592592593,0.7777777778,13.125
+food | viral,shorts | youtubeshorts | ytshorts,0.02592592593,0.5833333333,13.125
+shorts | youtubeshorts | ytshorts,food | viral,0.02592592593,0.5833333333,13.125
+studymotivation | studywithme,studyroutine,0.02592592593,0.4375,13.125
+studymotivation | studywithme,studyroutine | studyvlog,0.02592592593,0.4375,13.125
+studyroutine,studymotivation | studywithme,0.02592592593,0.7777777778,13.125
+studyroutine | studyvlog,studymotivation | studywithme,0.02592592593,0.7777777778,13.125
+youtubeshorts | ytshorts,food | shorts | viral,0.02592592593,0.4375,13.125
+food | youtubeshorts,shorts | viral | ytshorts,0.02592592593,0.875,12.43421053
+shortsfeed | trending,shortvideo,0.02592592593,0.875,12.43421053
+studentlife | studymotivation | studyvlog,studywithme,0.02592592593,0.875,12.43421053
+shorts | viral | ytshorts,food | youtubeshorts,0.02592592593,0.3684210526,12.43421053
+shortvideo,shortsfeed | trending,0.02592592593,0.3684210526,12.43421053
+studywithme,studentlife | studymotivation | studyvlog,0.02592592593,0.3684210526,12.43421053
+viral | ytshorts,food | shorts | youtubeshorts,0.02592592593,0.3181818182,12.27272727
+food | shorts | youtubeshorts,viral | ytshorts,0.02592592593,1,12.27272727
+viral | youtubeshorts | ytshorts,food | shorts,0.02592592593,0.5833333333,12.11538462
+food | shorts,viral | youtubeshorts | ytshorts,0.02592592593,0.5384615385,12.11538462
+studymotivation | studywithme,study | studyvlog,0.03333333333,0.5625,11.68269231
+study | studyvlog,studymotivation | studywithme,0.03333333333,0.6923076923,11.68269231
+study | studymotivation | studyvlog,studywithme,0.03333333333,0.8181818182,11.62679426
+studywithme,study | studymotivation | studyvlog,0.03333333333,0.4736842105,11.62679426
+study | studywithme,studymotivation | studyvlog,0.03333333333,0.6428571429,11.57142857
+studymotivation | studyvlog,study | studywithme,0.03333333333,0.6,11.57142857
+studymotivation | studyvlog,studywithme,0.04444444444,0.8,11.36842105
+studywithme,studymotivation | studyvlog,0.04444444444,0.6315789474,11.36842105
+studentlife | studymotivation,studywithme,0.02962962963,0.8,11.36842105
+studywithme,studentlife | studymotivation,0.02962962963,0.4210526316,11.36842105
+shorts | shortvideo,trending | ytshorts,0.02592592593,0.5384615385,11.18343195
+trending | ytshorts,shorts | shortvideo,0.02592592593,0.5384615385,11.18343195
+shorts | trending | viral,shortvideo | ytshorts,0.02592592593,0.3684210526,11.05263158
+shortvideo | ytshorts,shorts | trending | viral,0.02592592593,0.7777777778,11.05263158
+studymotivation | studyroutine,studywithme,0.02592592593,0.7777777778,11.05263158
+studymotivation | studyroutine | studyvlog,studywithme,0.02592592593,0.7777777778,11.05263158
+studyroutine,studywithme,0.02592592593,0.7777777778,11.05263158
+studyroutine | studyvlog,studywithme,0.02592592593,0.7777777778,11.05263158
+studywithme,studymotivation | studyroutine,0.02592592593,0.3684210526,11.05263158
+studywithme,studymotivation | studyroutine | studyvlog,0.02592592593,0.3684210526,11.05263158
+studywithme,studyroutine,0.02592592593,0.3684210526,11.05263158
+studywithme,studyroutine | studyvlog,0.02592592593,0.3684210526,11.05263158
+study | studyvlog | studywithme,studymotivation,0.03333333333,1,10.8
+studymotivation | studyroutine,studyvlog,0.03333333333,1,10.8
+studyroutine,studymotivation,0.03333333333,1,10.8
+studyroutine,studyvlog,0.03333333333,1,10.8
+studyroutine | studyvlog,studymotivation,0.03333333333,1,10.8
+studentlife | study,studymotivation,0.02962962963,1,10.8
+studentlife | studywithme,studymotivation,0.02962962963,1,10.8
+studentlife | studyvlog | studywithme,studymotivation,0.02592592593,1,10.8
+studymotivation,studentlife | studyvlog | studywithme,0.02592592593,0.28,10.8
+studymotivation,studyroutine | studyvlog | studywithme,0.02592592593,0.28,10.8
+studymotivation,studyroutine | studywithme,0.02592592593,0.28,10.8
+studymotivation,studytips,0.02592592593,0.28,10.8
+studymotivation | studyroutine | studywithme,studyvlog,0.02592592593,1,10.8
+studyroutine | studyvlog | studywithme,studymotivation,0.02592592593,1,10.8
+studyroutine | studywithme,studymotivation,0.02592592593,1,10.8
+studyroutine | studywithme,studyvlog,0.02592592593,1,10.8
+studytips,studymotivation,0.02592592593,1,10.8
+studyvlog,studymotivation | studyroutine | studywithme,0.02592592593,0.28,10.8
+studyvlog,studyroutine | studywithme,0.02592592593,0.28,10.8
+studymotivation,study | studyvlog | studywithme,0.03333333333,0.36,10.8
+studymotivation,studyroutine,0.03333333333,0.36,10.8
+studymotivation,studyroutine | studyvlog,0.03333333333,0.36,10.8
+studyvlog,studymotivation | studyroutine,0.03333333333,0.36,10.8
+studyvlog,studyroutine,0.03333333333,0.36,10.8
+studymotivation,studentlife | study,0.02962962963,0.32,10.8
+studymotivation,studentlife | studywithme,0.02962962963,0.32,10.8
+food,shorts | whatieatinaday,0.02592592593,0.3181818182,10.73863636
+food | youtubeshorts,viral | ytshorts,0.02592592593,0.875,10.73863636
+shorts | shortvideo | trending,viral | ytshorts,0.02592592593,0.875,10.73863636
+shorts | whatieatinaday,food,0.02592592593,0.875,10.73863636
+viral | ytshorts,food | youtubeshorts,0.02592592593,0.3181818182,10.73863636
+viral | ytshorts,shorts | shortvideo | trending,0.02592592593,0.3181818182,10.73863636
+morningroutine,dailyroutine,0.02592592593,0.5833333333,10.5
+motivation | studymotivation,studentlife,0.02592592593,0.5833333333,10.5
+studymotivation | studyvlog | studywithme,studentlife,0.02592592593,0.5833333333,10.5
+dailyroutine,morningroutine,0.02592592593,0.4666666667,10.5
+studentlife,motivation | studymotivation,0.02592592593,0.4666666667,10.5
+studentlife,studymotivation | studyvlog | studywithme,0.02592592593,0.4666666667,10.5
+study | studymotivation,studyvlog | studywithme,0.03333333333,0.5,10.38461538
+studyvlog | studywithme,study | studymotivation,0.03333333333,0.6923076923,10.38461538
+food | viral | youtubeshorts,shorts | ytshorts,0.02592592593,1,10
+shorts | ytshorts,food | viral | youtubeshorts,0.02592592593,0.2592592593,10
+shorts | ytshorts,shortvideo | trending | viral,0.02592592593,0.2592592593,10
+shortvideo | trending | viral,shorts | ytshorts,0.02592592593,1,10
+studyvlog | studywithme,studymotivation,0.04444444444,0.9230769231,9.969230769
+studymotivation,studyvlog | studywithme,0.04444444444,0.48,9.969230769
+shortvideo,shorts | trending | viral | ytshorts,0.02592592593,0.3684210526,9.947368421
+shortvideo,shorts | trending | ytshorts,0.02592592593,0.3684210526,9.947368421
+shortvideo,trending | viral | ytshorts,0.02592592593,0.3684210526,9.947368421
+shorts | trending | viral | ytshorts,shortvideo,0.02592592593,0.7,9.947368421
+shorts | trending | ytshorts,shortvideo,0.02592592593,0.7,9.947368421
+trending | viral | ytshorts,shortvideo,0.02592592593,0.7,9.947368421
+food | viral,youtubeshorts | ytshorts,0.02592592593,0.5833333333,9.84375
+shorts | trending,shortvideo | viral | ytshorts,0.02592592593,0.2916666667,9.84375
+shortvideo | viral | ytshorts,shorts | trending,0.02592592593,0.875,9.84375
+studentlife | studyvlog,studymotivation | studywithme,0.02592592593,0.5833333333,9.84375
+studymotivation | studywithme,studentlife | studyvlog,0.02592592593,0.4375,9.84375
+youtubeshorts | ytshorts,food | viral,0.02592592593,0.4375,9.84375
+study | studyvlog,studywithme,0.03333333333,0.6923076923,9.83805668
+studywithme,study | studyvlog,0.03333333333,0.4736842105,9.83805668
+motivation | studyvlog,studymotivation,0.03333333333,0.9,9.72
+studymotivation,motivation | studyvlog,0.03333333333,0.36,9.72
+food | shorts,whatieatinaday,0.02592592593,0.5384615385,9.692307692
+studentlife,studyvlog | studywithme,0.02592592593,0.4666666667,9.692307692
+studyvlog | studywithme,studentlife,0.02592592593,0.5384615385,9.692307692
+whatieatinaday,food | shorts,0.02592592593,0.4666666667,9.692307692
+studentlife,studymotivation | studyvlog,0.02962962963,0.5333333333,9.6
+studymotivation | studyvlog,studentlife,0.02962962963,0.5333333333,9.6
+study | studymotivation,studywithme,0.04444444444,0.6666666667,9.473684211
+studywithme,study | studymotivation,0.04444444444,0.6315789474,9.473684211
+motivation | studentlife,studymotivation,0.02592592593,0.875,9.45
+motivation | studywithme,studymotivation,0.02592592593,0.875,9.45
+shorts | shortvideo | ytshorts,trending | viral,0.02592592593,0.875,9.45
+studentlife | studymotivation | studywithme,studyvlog,0.02592592593,0.875,9.45
+studentlife | studywithme,studyvlog,0.02592592593,0.875,9.45
+studymotivation,motivation | studentlife,0.02592592593,0.28,9.45
+studymotivation,motivation | studywithme,0.02592592593,0.28,9.45
+studyvlog,studentlife | studymotivation | studywithme,0.02592592593,0.28,9.45
+studyvlog,studentlife | studywithme,0.02592592593,0.28,9.45
+trending | viral,shorts | shortvideo | ytshorts,0.02592592593,0.28,9.45
+dailyvlog | viral,minivlog | ytshorts,0.02592592593,0.5833333333,9.264705882
+minivlog | ytshorts,dailyvlog | viral,0.02592592593,0.4117647059,9.264705882
+study | studywithme,studymotivation,0.04444444444,0.8571428571,9.257142857
+studymotivation,study | studywithme,0.04444444444,0.48,9.257142857
+study | studyvlog,studymotivation,0.04074074074,0.8461538462,9.138461538
+studymotivation,study | studyvlog,0.04074074074,0.44,9.138461538
+studymotivation,studywithme,0.05925925926,0.64,9.094736842
+studywithme,studymotivation,0.05925925926,0.8421052632,9.094736842
+shorts | viral | youtubeshorts,trending | ytshorts,0.02592592593,0.4375,9.086538462
+youtubeshorts | ytshorts,food | shorts,0.02592592593,0.4375,9.086538462
+food | shorts,youtubeshorts | ytshorts,0.02592592593,0.5384615385,9.086538462
+trending | ytshorts,shorts | viral | youtubeshorts,0.02592592593,0.5384615385,9.086538462
+shorts | viral | ytshorts,shortvideo | trending,0.02592592593,0.3684210526,9.043062201
+shortvideo | trending,shorts | viral | ytshorts,0.02592592593,0.6363636364,9.043062201
+aesthetic,preppy,0.02962962963,0.2666666667,9
+preppy,aesthetic,0.02962962963,1,9
+studentlife,studymotivation | studywithme,0.02962962963,0.5333333333,9
+studymotivation | studywithme,studentlife,0.02962962963,0.5,9
+aesthetic,keşfet,0.02592592593,0.2333333333,9
+aesthetic,keşfet | vlog,0.02592592593,0.2333333333,9
+aesthetic,preppy | vlog,0.02592592593,0.2333333333,9
+keşfet,aesthetic,0.02592592593,1,9
+keşfet | vlog,aesthetic,0.02592592593,1,9
+preppy | vlog,aesthetic,0.02592592593,1,9
+food | youtubeshorts,shorts | ytshorts,0.02592592593,0.875,8.75
+shorts | trending,shortvideo | ytshorts,0.02592592593,0.2916666667,8.75
+shorts | ytshorts,food | youtubeshorts,0.02592592593,0.2592592593,8.75
+shortvideo | ytshorts,shorts | trending,0.02592592593,0.7777777778,8.75
+trending | ytshorts,shortvideo,0.02962962963,0.6153846154,8.744939271
+shortvideo,trending | ytshorts,0.02962962963,0.4210526316,8.744939271
+study,studymotivation | vlog,0.02592592593,0.2258064516,8.709677419
+studymotivation | vlog,study,0.02592592593,1,8.709677419
+studentlife,studyvlog,0.04444444444,0.8,8.64
+studyvlog,studentlife,0.04444444444,0.48,8.64
+minivlog | shortvideo,shortsfeed,0.02962962963,0.8,8.64
+motivation | study,studymotivation,0.02962962963,0.8,8.64
+shortsfeed,minivlog | shortvideo,0.02962962963,0.32,8.64
+studentlife | studymotivation,studyvlog,0.02962962963,0.8,8.64
+studymotivation,motivation | study,0.02962962963,0.32,8.64
+studyvlog,studentlife | studymotivation,0.02962962963,0.32,8.64
+food,foodie,0.02592592593,0.3181818182,8.590909091
+viral | youtubeshorts,shorts | trending | ytshorts,0.02592592593,0.3181818182,8.590909091
+viral | ytshorts,fyp | shorts,0.02592592593,0.3181818182,8.590909091
+viral | ytshorts,shorts | trending | youtubeshorts,0.02592592593,0.3181818182,8.590909091
+foodie,food,0.02592592593,0.7,8.590909091
+fyp | shorts,viral | ytshorts,0.02592592593,0.7,8.590909091
+shorts | trending | youtubeshorts,viral | ytshorts,0.02592592593,0.7,8.590909091
+shorts | trending | ytshorts,viral | youtubeshorts,0.02592592593,0.7,8.590909091
+viral | ytshorts,food | shorts,0.03333333333,0.4090909091,8.496503497
+food | shorts,viral | ytshorts,0.03333333333,0.6923076923,8.496503497
+food | ytshorts,shorts | viral | youtubeshorts,0.02592592593,0.5,8.4375
+shorts | viral | youtubeshorts,food | ytshorts,0.02592592593,0.4375,8.4375
+minivlog | shortsfeed,trendingshorts,0.02592592593,0.4666666667,8.4
+shortvideo | ytshorts,trending | viral,0.02592592593,0.7777777778,8.4
+trending | viral,shortvideo | ytshorts,0.02592592593,0.28,8.4
+trendingshorts,minivlog | shortsfeed,0.02592592593,0.4666666667,8.4
+motivation | studymotivation,studywithme,0.02592592593,0.5833333333,8.289473684
+studentlife | studyvlog,studywithme,0.02592592593,0.5833333333,8.289473684
+studywithme,motivation | studymotivation,0.02592592593,0.3684210526,8.289473684
+studywithme,studentlife | studyvlog,0.02592592593,0.3684210526,8.289473684
+dailyvlog | minivlog,indianvlogger,0.02592592593,0.3043478261,8.217391304
+motivation,studentlife | studymotivation,0.02592592593,0.3043478261,8.217391304
+indianvlogger,dailyvlog | minivlog,0.02592592593,0.7,8.217391304
+studentlife | studymotivation,motivation,0.02592592593,0.7,8.217391304
+studymotivation | studywithme,studyvlog,0.04444444444,0.75,8.1
+studyvlog,studymotivation | studywithme,0.04444444444,0.48,8.1
+motivation | studymotivation,studyvlog,0.03333333333,0.75,8.1
+study | studymotivation | studywithme,studyvlog,0.03333333333,0.75,8.1
+studyvlog,motivation | studymotivation,0.03333333333,0.36,8.1
+studyvlog,study | studymotivation | studywithme,0.03333333333,0.36,8.1
+shorts | ytshorts,shortvideo | viral,0.02962962963,0.2962962963,8
+shortvideo | viral,shorts | ytshorts,0.02962962963,0.8,8
+studentlife,study | studymotivation,0.02962962963,0.5333333333,8
+study | studymotivation,studentlife,0.02962962963,0.4444444444,8
+shorts | trending,shortvideo | viral,0.02592592593,0.2916666667,7.875
+shortvideo | viral,shorts | trending,0.02592592593,0.7,7.875
+food,shorts | viral | youtubeshorts | ytshorts,0.02592592593,0.3181818182,7.809917355
+food | shorts | ytshorts,viral | youtubeshorts,0.02592592593,0.6363636364,7.809917355
+shorts | viral | youtubeshorts | ytshorts,food,0.02592592593,0.6363636364,7.809917355
+shortvideo | trending,viral | ytshorts,0.02592592593,0.6363636364,7.809917355
+viral | youtubeshorts,food | shorts | ytshorts,0.02592592593,0.3181818182,7.809917355
+viral | ytshorts,shortvideo | trending,0.02592592593,0.3181818182,7.809917355
+fyp | viral,shorts | ytshorts,0.02592592593,0.7777777778,7.777777778
+shorts | ytshorts,fyp | viral,0.02592592593,0.2592592593,7.777777778
+shortsfeed | viral,shorts | ytshorts,0.03703703704,0.7692307692,7.692307692
+shorts | ytshorts,shortsfeed | viral,0.03703703704,0.3703703704,7.692307692
+minivlog | shortsfeed,shortvideo,0.02962962963,0.5333333333,7.578947368
+shortvideo,minivlog | shortsfeed,0.02962962963,0.4210526316,7.578947368
+studentlife,studywithme,0.02962962963,0.5333333333,7.578947368
+studywithme,studentlife,0.02962962963,0.4210526316,7.578947368
+shorts | youtubeshorts,food | viral | ytshorts,0.02592592593,0.28,7.56
+shorts | youtubeshorts,trending | viral | ytshorts,0.02592592593,0.28,7.56
+food | viral | ytshorts,shorts | youtubeshorts,0.02592592593,0.7,7.56
+trending | viral | ytshorts,shorts | youtubeshorts,0.02592592593,0.7,7.56
+food,trending | ytshorts,0.02962962963,0.3636363636,7.552447552
+shorts | shortvideo,viral | ytshorts,0.02962962963,0.6153846154,7.552447552
+trending | ytshorts,food,0.02962962963,0.6153846154,7.552447552
+viral | ytshorts,shorts | shortvideo,0.02962962963,0.3636363636,7.552447552
+food | viral,shorts | ytshorts,0.03333333333,0.75,7.5
+shorts | ytshorts,food | viral,0.03333333333,0.3333333333,7.5
+studywithme,studyvlog,0.04814814815,0.6842105263,7.389473684
+studyvlog,studywithme,0.04814814815,0.52,7.389473684
+food,whatieatinaday,0.03333333333,0.4090909091,7.363636364
+whatieatinaday,food,0.03333333333,0.6,7.363636364
+dailyvlog,aestheticvlog,0.02592592593,0.1891891892,7.297297297
+dailyvlog,indianvlogger | lifestylevlog,0.02592592593,0.1891891892,7.297297297
+aestheticvlog,dailyvlog,0.02592592593,1,7.297297297
+indianvlogger | lifestylevlog,dailyvlog,0.02592592593,1,7.297297297
+minivlog | shorts | youtubeshorts,viral | vlog,0.02962962963,0.7272727273,7.272727273
+shorts | vlog | youtubeshorts,minivlog | viral,0.02962962963,0.7272727273,7.272727273
+vlog | ytshorts,minivlog | viral,0.02962962963,0.7272727273,7.272727273
+minivlog | viral,shorts | vlog | youtubeshorts,0.02962962963,0.2962962963,7.272727273
+minivlog | viral,vlog | ytshorts,0.02962962963,0.2962962963,7.272727273
+viral | vlog,minivlog | shorts | youtubeshorts,0.02962962963,0.2962962963,7.272727273
+studymotivation,studentlife,0.03703703704,0.4,7.2
+studentlife,studymotivation,0.03703703704,0.6666666667,7.2
+studentlife | studyvlog,studymotivation,0.02962962963,0.6666666667,7.2
+studymotivation,studentlife | studyvlog,0.02962962963,0.32,7.2
+shorts | youtubeshorts | ytshorts,food,0.02592592593,0.5833333333,7.159090909
+viral | youtubeshorts | ytshorts,food,0.02592592593,0.5833333333,7.159090909
+food,shorts | youtubeshorts | ytshorts,0.02592592593,0.3181818182,7.159090909
+food,viral | youtubeshorts | ytshorts,0.02592592593,0.3181818182,7.159090909
+food | shorts | viral,ytshorts,0.03333333333,1,7.105263158
+ytshorts,food | shorts | viral,0.03333333333,0.2368421053,7.105263158
+food | youtubeshorts,ytshorts,0.02962962963,1,7.105263158
+ytshorts,food | youtubeshorts,0.02962962963,0.2105263158,7.105263158
+food | shorts | viral | youtubeshorts,ytshorts,0.02592592593,1,7.105263158
+food | shorts | youtubeshorts,ytshorts,0.02592592593,1,7.105263158
+food | viral | youtubeshorts,ytshorts,0.02592592593,1,7.105263158
+minivlog | viralshorts,ytshorts,0.02592592593,1,7.105263158
+shorts | shortvideo | trending | viral,ytshorts,0.02592592593,1,7.105263158
+shorts | viral | ytshorts,trending | youtubeshorts,0.02592592593,0.3684210526,7.105263158
+shortvideo | trending | viral,ytshorts,0.02592592593,1,7.105263158
+trending | youtubeshorts,shorts | viral | ytshorts,0.02592592593,0.5,7.105263158
+ytshorts,food | shorts | viral | youtubeshorts,0.02592592593,0.1842105263,7.105263158
+ytshorts,food | shorts | youtubeshorts,0.02592592593,0.1842105263,7.105263158
+ytshorts,food | viral | youtubeshorts,0.02592592593,0.1842105263,7.105263158
+ytshorts,minivlog | viralshorts,0.02592592593,0.1842105263,7.105263158
+ytshorts,shorts | shortvideo | trending | viral,0.02592592593,0.1842105263,7.105263158
+ytshorts,shortvideo | trending | viral,0.02592592593,0.1842105263,7.105263158
+motivation,studymotivation | studyvlog,0.03333333333,0.3913043478,7.043478261
+studymotivation | studyvlog,motivation,0.03333333333,0.6,7.043478261
+minivlog | viral,dailyvlog | ytshorts,0.02592592593,0.2592592593,7
+shorts | ytshorts,trending | viral | youtubeshorts,0.02592592593,0.2592592593,7
+dailyvlog | ytshorts,minivlog | viral,0.02592592593,0.7,7
+trending | viral | youtubeshorts,shorts | ytshorts,0.02592592593,0.7,7
+studentlife | studymotivation,study,0.02962962963,0.8,6.967741935
+study,studentlife | studymotivation,0.02962962963,0.2580645161,6.967741935
+viralshorts,minivlog | ytshorts,0.02592592593,0.4375,6.948529412
+minivlog | ytshorts,viralshorts,0.02592592593,0.4117647059,6.948529412
+study | studywithme,studyvlog,0.03333333333,0.6428571429,6.942857143
+studyvlog,study | studywithme,0.03333333333,0.36,6.942857143
+shortsfeed,shortvideo | trending,0.02592592593,0.28,6.872727273
+shortvideo | trending,shortsfeed,0.02592592593,0.6363636364,6.872727273
+minivlog | shorts | viral,vlog | youtubeshorts,0.02962962963,0.5333333333,6.857142857
+vlog | youtubeshorts,minivlog | shorts | viral,0.02962962963,0.380952381,6.857142857
+dailyvlog | shorts,minivlog | shortsfeed,0.02592592593,0.3684210526,6.631578947
+minivlog | shortsfeed,dailyvlog | shorts,0.02592592593,0.4666666667,6.631578947
+viral | youtubeshorts,food | shorts,0.02592592593,0.3181818182,6.608391608
+viral | youtubeshorts,trending | ytshorts,0.02592592593,0.3181818182,6.608391608
+food | shorts,viral | youtubeshorts,0.02592592593,0.5384615385,6.608391608
+trending | ytshorts,viral | youtubeshorts,0.02592592593,0.5384615385,6.608391608
+study | studymotivation,studyvlog,0.04074074074,0.6111111111,6.6
+studyvlog,study | studymotivation,0.04074074074,0.44,6.6
+dailyvlog,indianvlogger,0.03333333333,0.2432432432,6.567567568
+indianvlogger,dailyvlog,0.03333333333,0.9,6.567567568
+shorts | trending,viral | youtubeshorts | ytshorts,0.02592592593,0.2916666667,6.5625
+viral | youtubeshorts | ytshorts,shorts | trending,0.02592592593,0.5833333333,6.5625
+study,studymotivation | studywithme,0.04444444444,0.3870967742,6.532258065
+studymotivation | studywithme,study,0.04444444444,0.75,6.532258065
+study,studymotivation | studyvlog | studywithme,0.03333333333,0.2903225806,6.532258065
+studymotivation | studyvlog | studywithme,study,0.03333333333,0.75,6.532258065
+dailyvlog,lifestylevlog,0.02962962963,0.2162162162,6.486486486
+lifestylevlog,dailyvlog,0.02962962963,0.8888888889,6.486486486
+studymotivation,studyvlog,0.05555555556,0.6,6.48
+studyvlog,studymotivation,0.05555555556,0.6,6.48
+viral | ytshorts,shorts | shortsfeed,0.03703703704,0.4545454545,6.459330144
+shorts | shortsfeed,viral | ytshorts,0.03703703704,0.5263157895,6.459330144
+fyp | ytshorts,shorts | viral,0.02592592593,1,6.428571429
+shorts | viral,fyp | ytshorts,0.02592592593,0.1666666667,6.428571429
+study,studywithme,0.05185185185,0.4516129032,6.417657046
+studywithme,study,0.05185185185,0.7368421053,6.417657046
+study,studymotivation | studyvlog,0.04074074074,0.3548387097,6.387096774
+studymotivation | studyvlog,study,0.04074074074,0.7333333333,6.387096774
+dailyvlog,indianvlogger | minivlog,0.02592592593,0.1891891892,6.385135135
+indianvlogger | minivlog,dailyvlog,0.02592592593,0.875,6.385135135
+shortvideo | trending,shorts | ytshorts,0.02592592593,0.6363636364,6.363636364
+shorts | ytshorts,shortvideo | trending,0.02592592593,0.2592592593,6.363636364
+ytshorts,food | trending,0.02962962963,0.2105263158,6.315789474
+ytshorts,shorts | shortvideo | viral,0.02962962963,0.2105263158,6.315789474
+food | trending,ytshorts,0.02962962963,0.8888888889,6.315789474
+shorts | shortvideo | viral,ytshorts,0.02962962963,0.8888888889,6.315789474
+dailyvlog | viral,shortsfeed,0.02592592593,0.5833333333,6.3
+food | viral,shorts | youtubeshorts,0.02592592593,0.5833333333,6.3
+minivlog | trendingshorts,shortsfeed,0.02592592593,0.5833333333,6.3
+shorts | youtubeshorts,food | viral,0.02592592593,0.28,6.3
+shorts | youtubeshorts | ytshorts,trending | viral,0.02592592593,0.5833333333,6.3
+shortsfeed,dailyvlog | viral,0.02592592593,0.28,6.3
+shortsfeed,minivlog | trendingshorts,0.02592592593,0.28,6.3
+trending | viral,shorts | youtubeshorts | ytshorts,0.02592592593,0.28,6.3
+study,studymotivation,0.06666666667,0.5806451613,6.270967742
+studymotivation,study,0.06666666667,0.72,6.270967742
+motivation,studentlife,0.02962962963,0.347826087,6.260869565
+studentlife,motivation,0.02962962963,0.5333333333,6.260869565
+dailyvlog | shorts | viral,ytshorts,0.02592592593,0.875,6.217105263
+fyp | shorts | viral,ytshorts,0.02592592593,0.875,6.217105263
+shorts | shortvideo | trending,ytshorts,0.02592592593,0.875,6.217105263
+shorts | whatieatinaday,ytshorts,0.02592592593,0.875,6.217105263
+youtubeshorts | ytshorts,shorts | trending | viral,0.02592592593,0.4375,6.217105263
+youtubeshorts | ytshorts,shortvideo,0.02592592593,0.4375,6.217105263
+shorts | trending | viral,youtubeshorts | ytshorts,0.02592592593,0.3684210526,6.217105263
+shortvideo,youtubeshorts | ytshorts,0.02592592593,0.3684210526,6.217105263
+ytshorts,dailyvlog | shorts | viral,0.02592592593,0.1842105263,6.217105263
+ytshorts,fyp | shorts | viral,0.02592592593,0.1842105263,6.217105263
+ytshorts,shorts | shortvideo | trending,0.02592592593,0.1842105263,6.217105263
+ytshorts,shorts | whatieatinaday,0.02592592593,0.1842105263,6.217105263
+food,youtubeshorts | ytshorts,0.02962962963,0.3636363636,6.136363636
+minivlog | youtubeshorts,shorts | viral | vlog,0.02962962963,0.3636363636,6.136363636
+viral | youtubeshorts,minivlog | shorts | vlog,0.02962962963,0.3636363636,6.136363636
+viral | youtubeshorts,food | ytshorts,0.02592592593,0.3181818182,6.136363636
+viral | ytshorts,trending | youtubeshorts,0.02592592593,0.3181818182,6.136363636
+minivlog | shorts | vlog,viral | youtubeshorts,0.02962962963,0.5,6.136363636
+shorts | viral | vlog,minivlog | youtubeshorts,0.02962962963,0.5,6.136363636
+youtubeshorts | ytshorts,food,0.02962962963,0.5,6.136363636
+food | ytshorts,viral | youtubeshorts,0.02592592593,0.5,6.136363636
+trending | youtubeshorts,viral | ytshorts,0.02592592593,0.5,6.136363636
+dailyvlog | youtubeshorts,minivlog | vlog,0.02592592593,0.875,6.057692308
+minivlog | vlog,dailyvlog | youtubeshorts,0.02592592593,0.1794871795,6.057692308
+study,studyvlog | studywithme,0.03333333333,0.2903225806,6.029776675
+studyvlog | studywithme,study,0.03333333333,0.6923076923,6.029776675
+food | shorts,ytshorts,0.04074074074,0.8461538462,6.012145749
+ytshorts,food | shorts,0.04074074074,0.2894736842,6.012145749
+minivlog | viral,dailyvlog | vlog,0.03333333333,0.3333333333,6
+dailyroutine,viralvideo,0.02592592593,0.4666666667,6
+viralvideo,dailyroutine,0.02592592593,0.3333333333,6
+dailyvlog | vlog,minivlog | viral,0.03333333333,0.6,6
+shorts | viral | ytshorts,shortvideo,0.02962962963,0.4210526316,5.983379501
+shortvideo,shorts | viral | ytshorts,0.02962962963,0.4210526316,5.983379501
+food | viral,ytshorts,0.03703703704,0.8333333333,5.921052632
+shorts | shortsfeed | viral,ytshorts,0.03703703704,0.8333333333,5.921052632
+ytshorts,food | viral,0.03703703704,0.2631578947,5.921052632
+ytshorts,shorts | shortsfeed | viral,0.03703703704,0.2631578947,5.921052632
+dailyvlog | shorts,minivlog | ytshorts,0.02592592593,0.3684210526,5.851393189
+shortvideo,minivlog | trending,0.02592592593,0.3684210526,5.851393189
+minivlog | trending,shortvideo,0.02592592593,0.4117647059,5.851393189
+minivlog | ytshorts,dailyvlog | shorts,0.02592592593,0.4117647059,5.851393189
+shorts | viral,shortsfeed | ytshorts,0.03703703704,0.2380952381,5.844155844
+shortsfeed | ytshorts,shorts | viral,0.03703703704,0.9090909091,5.844155844
+dailyvlog | viral,shorts | ytshorts,0.02592592593,0.5833333333,5.833333333
+shorts | ytshorts,dailyvlog | viral,0.02592592593,0.2592592593,5.833333333
+shorts | youtubeshorts,trending | ytshorts,0.02592592593,0.28,5.815384615
+shortsfeed,dailyvlog | minivlog | shorts,0.02592592593,0.28,5.815384615
+shortsfeed,shorts | shortvideo,0.02592592593,0.28,5.815384615
+studymotivation,study | vlog,0.02592592593,0.28,5.815384615
+trending | viral,shorts | shortvideo,0.02592592593,0.28,5.815384615
+dailyvlog | minivlog | shorts,shortsfeed,0.02592592593,0.5384615385,5.815384615
+shorts | shortvideo,shortsfeed,0.02592592593,0.5384615385,5.815384615
+shorts | shortvideo,trending | viral,0.02592592593,0.5384615385,5.815384615
+study | vlog,studymotivation,0.02592592593,0.5384615385,5.815384615
+trending | ytshorts,shorts | youtubeshorts,0.02592592593,0.5384615385,5.815384615
+food,shorts | viral | ytshorts,0.03333333333,0.4090909091,5.813397129
+shorts | viral | ytshorts,food,0.03333333333,0.4736842105,5.813397129
+motivation | studymotivation,study,0.02962962963,0.6666666667,5.806451613
+study,motivation | studymotivation,0.02962962963,0.2580645161,5.806451613
+shortsfeed,trendingshorts,0.02962962963,0.32,5.76
+trendingshorts,shortsfeed,0.02962962963,0.5333333333,5.76
+minivlog | youtubeshorts,dailyvlog | vlog,0.02592592593,0.3181818182,5.727272727
+dailyvlog | vlog,minivlog | youtubeshorts,0.02592592593,0.4666666667,5.727272727
+shorts | viral,shortvideo | ytshorts,0.02962962963,0.1904761905,5.714285714
+minivlog | viral,vlog | youtubeshorts,0.04444444444,0.4444444444,5.714285714
+vlog | youtubeshorts,minivlog | viral,0.04444444444,0.5714285714,5.714285714
+shortvideo | ytshorts,shorts | viral,0.02962962963,0.8888888889,5.714285714
+shorts | viral | ytshorts,shortsfeed,0.03703703704,0.5263157895,5.684210526
+shortsfeed,shorts | viral | ytshorts,0.03703703704,0.4,5.684210526
+shortvideo | viral,ytshorts,0.02962962963,0.8,5.684210526
+ytshorts,shortvideo | viral,0.02962962963,0.2105263158,5.684210526
+motivation,studymotivation,0.04444444444,0.5217391304,5.634782609
+studymotivation,motivation,0.04444444444,0.48,5.634782609
+food | youtubeshorts,shorts | viral,0.02592592593,0.875,5.625
+food | youtubeshorts | ytshorts,shorts | viral,0.02592592593,0.875,5.625
+shortvideo | trending | ytshorts,shorts | viral,0.02592592593,0.875,5.625
+shorts | viral,food | youtubeshorts,0.02592592593,0.1666666667,5.625
+shorts | viral,food | youtubeshorts | ytshorts,0.02592592593,0.1666666667,5.625
+shorts | viral,shortvideo | trending | ytshorts,0.02592592593,0.1666666667,5.625
+trending,shortvideo | ytshorts,0.02962962963,0.1860465116,5.581395349
+shortvideo | ytshorts,trending,0.02962962963,0.8888888889,5.581395349
+food,viral | ytshorts,0.03703703704,0.4545454545,5.578512397
+viral | ytshorts,food,0.03703703704,0.4545454545,5.578512397
+fyp,shorts | viral | ytshorts,0.02592592593,0.3888888889,5.526315789
+fyp | viral,ytshorts,0.02592592593,0.7777777778,5.526315789
+shorts | trending | viral | youtubeshorts,ytshorts,0.02592592593,0.7777777778,5.526315789
+shorts | viral | ytshorts,fyp,0.02592592593,0.3684210526,5.526315789
+ytshorts,fyp | viral,0.02592592593,0.1842105263,5.526315789
+ytshorts,shorts | trending | viral | youtubeshorts,0.02592592593,0.1842105263,5.526315789
+new,vlogger,0.02962962963,0.5714285714,5.510204082
+vlogger,new,0.02962962963,0.2857142857,5.510204082
+trending,shorts | shortvideo | viral | ytshorts,0.02592592593,0.1627906977,5.494186047
+trending,shorts | shortvideo | ytshorts,0.02592592593,0.1627906977,5.494186047
+trending,shortvideo | viral | ytshorts,0.02592592593,0.1627906977,5.494186047
+shorts | shortvideo | viral | ytshorts,trending,0.02592592593,0.875,5.494186047
+shorts | shortvideo | ytshorts,trending,0.02592592593,0.875,5.494186047
+shortvideo | viral | ytshorts,trending,0.02592592593,0.875,5.494186047
+dailyvlog | minivlog,trendingshorts,0.02592592593,0.3043478261,5.47826087
+trendingshorts,dailyvlog | minivlog,0.02592592593,0.4666666667,5.47826087
+shortsfeed | viral,ytshorts,0.03703703704,0.7692307692,5.465587045
+ytshorts,shortsfeed | viral,0.03703703704,0.2631578947,5.465587045
+minivlog | youtubeshorts,viral | vlog,0.04444444444,0.5454545455,5.454545455
+viral | vlog,minivlog | youtubeshorts,0.04444444444,0.4444444444,5.454545455
+viral | ytshorts,shorts | youtubeshorts,0.04074074074,0.5,5.4
+dailyvlog | ytshorts,minivlog | shorts,0.02592592593,0.7,5.4
+food | ytshorts,shorts | youtubeshorts,0.02592592593,0.5,5.4
+minivlog | shorts,dailyvlog | ytshorts,0.02592592593,0.2,5.4
+shorts | youtubeshorts,food | ytshorts,0.02592592593,0.28,5.4
+shorts | youtubeshorts,viral | ytshorts,0.04074074074,0.44,5.4
+food,shorts | viral | youtubeshorts,0.02592592593,0.3181818182,5.369318182
+shorts | viral | youtubeshorts,food,0.02592592593,0.4375,5.369318182
+students,study,0.02962962963,0.6153846154,5.359801489
+study,students,0.02962962963,0.2580645161,5.359801489
+dailyvlog,dailyroutine,0.04074074074,0.2972972973,5.351351351
+dailyroutine,dailyvlog,0.04074074074,0.7333333333,5.351351351
+shorts | shortsfeed,shortvideo,0.02592592593,0.3684210526,5.235457064
+shorts | trending | viral,shortvideo,0.02592592593,0.3684210526,5.235457064
+shortvideo,shorts | shortsfeed,0.02592592593,0.3684210526,5.235457064
+shortvideo,shorts | trending | viral,0.02592592593,0.3684210526,5.235457064
+motivation,study | studymotivation,0.02962962963,0.347826087,5.217391304
+study | studymotivation,motivation,0.02962962963,0.4444444444,5.217391304
+minivlog | vlog,dailyvlog | viral,0.03333333333,0.2307692308,5.192307692
+dailyvlog | viral,minivlog | vlog,0.03333333333,0.75,5.192307692
+shortvideo,viral | ytshorts,0.02962962963,0.4210526316,5.167464115
+shortvideo | trending,ytshorts,0.02962962963,0.7272727273,5.167464115
+viral | ytshorts,shortvideo,0.02962962963,0.3636363636,5.167464115
+ytshorts,shortvideo | trending,0.02962962963,0.2105263158,5.167464115
+minivlog | viral | youtubeshorts,shorts | vlog,0.02962962963,0.5714285714,5.142857143
+shorts | vlog,minivlog | viral | youtubeshorts,0.02962962963,0.2666666667,5.142857143
+motivation,studymotivation | studywithme,0.02592592593,0.3043478261,5.135869565
+studymotivation | studywithme,motivation,0.02592592593,0.4375,5.135869565
+shortsfeed,shortvideo,0.03333333333,0.36,5.115789474
+shortvideo,shortsfeed,0.03333333333,0.4736842105,5.115789474
+shorts | trending,viral | ytshorts,0.03703703704,0.4166666667,5.113636364
+viral | ytshorts,shorts | trending,0.03703703704,0.4545454545,5.113636364
+dailyvlog,minivlog | shorts | shortsfeed,0.02592592593,0.1891891892,5.108108108
+dailyvlog,studyvlog | vlog,0.02592592593,0.1891891892,5.108108108
+minivlog | shorts | shortsfeed,dailyvlog,0.02592592593,0.7,5.108108108
+studyvlog | vlog,dailyvlog,0.02592592593,0.7,5.108108108
+viral | youtubeshorts,minivlog | ytshorts,0.02592592593,0.3181818182,5.053475936
+minivlog | ytshorts,viral | youtubeshorts,0.02592592593,0.4117647059,5.053475936
+studyvlog,dailyvlog | vlog,0.02592592593,0.28,5.04
+dailyvlog | vlog,studyvlog,0.02592592593,0.4666666667,5.04
+food,shorts | ytshorts,0.04074074074,0.5,5
+viral | youtubeshorts,shorts | ytshorts,0.04074074074,0.5,5
+shorts | viral,trending | youtubeshorts | ytshorts,0.02592592593,0.1666666667,5
+shorts | ytshorts,trending | youtubeshorts,0.02592592593,0.2592592593,5
+trending | youtubeshorts,shorts | ytshorts,0.02592592593,0.5,5
+trending | youtubeshorts | ytshorts,shorts | viral,0.02592592593,0.7777777778,5
+shorts | ytshorts,food,0.04074074074,0.4074074074,5
+shorts | ytshorts,viral | youtubeshorts,0.04074074074,0.4074074074,5
+ytshorts,dailyvlog | minivlog | viral,0.02592592593,0.1842105263,4.973684211
+ytshorts,fyp | shorts,0.02592592593,0.1842105263,4.973684211
+ytshorts,shorts | trending | youtubeshorts,0.02592592593,0.1842105263,4.973684211
+ytshorts,shortvideo | youtubeshorts,0.02592592593,0.1842105263,4.973684211
+ytshorts,trending | viral | youtubeshorts,0.02592592593,0.1842105263,4.973684211
+dailyvlog | minivlog | viral,ytshorts,0.02592592593,0.7,4.973684211
+fyp | shorts,ytshorts,0.02592592593,0.7,4.973684211
+shorts | trending | youtubeshorts,ytshorts,0.02592592593,0.7,4.973684211
+shortvideo | youtubeshorts,ytshorts,0.02592592593,0.7,4.973684211
+trending | viral | youtubeshorts,ytshorts,0.02592592593,0.7,4.973684211
+trending | ytshorts,shorts | viral,0.03703703704,0.7692307692,4.945054945
+shorts | viral,trending | ytshorts,0.03703703704,0.2380952381,4.945054945
+studywithme,motivation,0.02962962963,0.4210526316,4.942791762
+motivation,studywithme,0.02962962963,0.347826087,4.942791762
+shorts | trending,youtubeshorts | ytshorts,0.02592592593,0.2916666667,4.921875
+youtubeshorts | ytshorts,shorts | trending,0.02592592593,0.4375,4.921875
+shortsfeed,viral | ytshorts,0.03703703704,0.4,4.909090909
+viral | ytshorts,shortsfeed,0.03703703704,0.4545454545,4.909090909
+dailyvlog | shortsfeed,minivlog | shorts,0.02592592593,0.6363636364,4.909090909
+minivlog | shorts,dailyvlog | shortsfeed,0.02592592593,0.2,4.909090909
+ytshorts,shorts | viral | youtubeshorts,0.04074074074,0.2894736842,4.884868421
+shorts | viral | youtubeshorts,ytshorts,0.04074074074,0.6875,4.884868421
+trending,shorts | shortvideo | viral,0.02592592593,0.1627906977,4.88372093
+trending,shortsfeed | shortvideo,0.02592592593,0.1627906977,4.88372093
+youtubeshorts,food | shorts | viral,0.02592592593,0.1627906977,4.88372093
+youtubeshorts,food | shorts | viral | ytshorts,0.02592592593,0.1627906977,4.88372093
+youtubeshorts,shortvideo | ytshorts,0.02592592593,0.1627906977,4.88372093
+food | shorts | viral,youtubeshorts,0.02592592593,0.7777777778,4.88372093
+food | shorts | viral | ytshorts,youtubeshorts,0.02592592593,0.7777777778,4.88372093
+shorts | shortvideo | viral,trending,0.02592592593,0.7777777778,4.88372093
+shortsfeed | shortvideo,trending,0.02592592593,0.7777777778,4.88372093
+shortvideo | ytshorts,youtubeshorts,0.02592592593,0.7777777778,4.88372093
+dailyvlog,minivlog | shortsfeed,0.03703703704,0.2702702703,4.864864865
+minivlog | shortsfeed,dailyvlog,0.03703703704,0.6666666667,4.864864865
+minivlog | vlog,indianvlogger,0.02592592593,0.1794871795,4.846153846
+indianvlogger,minivlog | vlog,0.02592592593,0.7,4.846153846
+fyp,viral | ytshorts,0.02592592593,0.3888888889,4.772727273
+viral | ytshorts,fyp,0.02592592593,0.3181818182,4.772727273
+viral | vlog | youtubeshorts,minivlog | shorts,0.02962962963,0.6153846154,4.747252747
+minivlog | shorts,viral | vlog | youtubeshorts,0.02962962963,0.2285714286,4.747252747
+dailyvlog | viral,ytshorts,0.02962962963,0.6666666667,4.736842105
+shorts | trending,shortvideo,0.02962962963,0.3333333333,4.736842105
+shortvideo,shorts | trending,0.02962962963,0.4210526316,4.736842105
+ytshorts,dailyvlog | viral,0.02962962963,0.2105263158,4.736842105
+trending | viral,youtubeshorts | ytshorts,0.02592592593,0.28,4.725
+youtubeshorts | ytshorts,trending | viral,0.02592592593,0.4375,4.725
+viral | vlog,minivlog | ytshorts,0.02962962963,0.2962962963,4.705882353
+minivlog | ytshorts,viral | vlog,0.02962962963,0.4705882353,4.705882353
+dailyvlog | minivlog,shortsfeed,0.03703703704,0.4347826087,4.695652174
+motivation,studyvlog,0.03703703704,0.4347826087,4.695652174
+shortsfeed,dailyvlog | minivlog,0.03703703704,0.4,4.695652174
+studyvlog,motivation,0.03703703704,0.4,4.695652174
+shorts | ytshorts,whatieatinaday,0.02592592593,0.2592592593,4.666666667
+whatieatinaday,shorts | ytshorts,0.02592592593,0.4666666667,4.666666667
+studentlife,study,0.02962962963,0.5333333333,4.64516129
+study,studentlife,0.02962962963,0.2580645161,4.64516129
+dailyvlog,minivlog | shorts | ytshorts,0.02592592593,0.1891891892,4.643734644
+dailyvlog,minivlog | studyvlog,0.02592592593,0.1891891892,4.643734644
+dailyvlog,minivlog | viral | ytshorts,0.02592592593,0.1891891892,4.643734644
+minivlog | shorts | ytshorts,dailyvlog,0.02592592593,0.6363636364,4.643734644
+minivlog | studyvlog,dailyvlog,0.02592592593,0.6363636364,4.643734644
+minivlog | viral | ytshorts,dailyvlog,0.02592592593,0.6363636364,4.643734644
+viral | youtubeshorts,shorts | trending,0.03333333333,0.4090909091,4.602272727
+shorts | trending,viral | youtubeshorts,0.03333333333,0.375,4.602272727
+trending | youtubeshorts,ytshorts,0.03333333333,0.6428571429,4.567669173
+ytshorts,trending | youtubeshorts,0.03333333333,0.2368421053,4.567669173
+minivlog | shorts | viral | vlog,youtubeshorts,0.02962962963,0.7272727273,4.566596195
+youtubeshorts,minivlog | shorts | viral | vlog,0.02962962963,0.1860465116,4.566596195
+dailyvlog | shorts,shortsfeed,0.02962962963,0.4210526316,4.547368421
+shorts | youtubeshorts,shortvideo,0.02962962963,0.32,4.547368421
+shortsfeed,dailyvlog | shorts,0.02962962963,0.32,4.547368421
+shortvideo,shorts | youtubeshorts,0.02962962963,0.4210526316,4.547368421
+study,studyvlog,0.04814814815,0.4193548387,4.529032258
+studyvlog,study,0.04814814815,0.52,4.529032258
+food,ytshorts,0.05185185185,0.6363636364,4.5215311
+ytshorts,food,0.05185185185,0.3684210526,4.5215311
+dailyvlog | shorts,viral | ytshorts,0.02592592593,0.3684210526,4.5215311
+shortvideo,viral | youtubeshorts,0.02592592593,0.3684210526,4.5215311
+viral | youtubeshorts,shortvideo,0.02592592593,0.3181818182,4.5215311
+viral | ytshorts,dailyvlog | shorts,0.02592592593,0.3181818182,4.5215311
+dailyvlog | viral,minivlog | shorts,0.02592592593,0.5833333333,4.5
+dailyvlog | ytshorts,shorts | viral,0.02592592593,0.7,4.5
+minivlog | shorts,dailyvlog | viral,0.02592592593,0.2,4.5
+shorts | viral,dailyvlog | ytshorts,0.02592592593,0.1666666667,4.5
+shorts | viral,youtubeshorts | ytshorts,0.04074074074,0.2619047619,4.419642857
+youtubeshorts | ytshorts,shorts | viral,0.04074074074,0.6875,4.419642857
+shorts | ytshorts,shortsfeed,0.04074074074,0.4074074074,4.4
+shortsfeed,shorts | ytshorts,0.04074074074,0.44,4.4
+trending,minivlog | shortvideo,0.02592592593,0.1627906977,4.395348837
+trending,shortvideo | viral,0.02592592593,0.1627906977,4.395348837
+youtubeshorts,food | viral | ytshorts,0.02592592593,0.1627906977,4.395348837
+youtubeshorts,shorts | trending | viral | ytshorts,0.02592592593,0.1627906977,4.395348837
+youtubeshorts,shorts | trending | ytshorts,0.02592592593,0.1627906977,4.395348837
+youtubeshorts,shortvideo | viral,0.02592592593,0.1627906977,4.395348837
+youtubeshorts,trending | viral | ytshorts,0.02592592593,0.1627906977,4.395348837
+food | viral | ytshorts,youtubeshorts,0.02592592593,0.7,4.395348837
+minivlog | shortvideo,trending,0.02592592593,0.7,4.395348837
+shorts | trending | viral | ytshorts,youtubeshorts,0.02592592593,0.7,4.395348837
+shorts | trending | ytshorts,youtubeshorts,0.02592592593,0.7,4.395348837
+shortvideo | viral,trending,0.02592592593,0.7,4.395348837
+shortvideo | viral,youtubeshorts,0.02592592593,0.7,4.395348837
+trending | viral | ytshorts,youtubeshorts,0.02592592593,0.7,4.395348837
+minivlog | viral,youtubeshorts | ytshorts,0.02592592593,0.2592592593,4.375
+shorts | ytshorts,viralshorts,0.02592592593,0.2592592593,4.375
+viralshorts,shorts | ytshorts,0.02592592593,0.4375,4.375
+youtubeshorts | ytshorts,minivlog | viral,0.02592592593,0.4375,4.375
+shorts | shortvideo,ytshorts,0.02962962963,0.6153846154,4.372469636
+ytshorts,shorts | shortvideo,0.02962962963,0.2105263158,4.372469636
+youtubeshorts,trending | ytshorts,0.03333333333,0.2093023256,4.347048301
+trending | ytshorts,youtubeshorts,0.03333333333,0.6923076923,4.347048301
+dailyvlog | minivlog,shorts | shortsfeed,0.02592592593,0.3043478261,4.324942792
+shorts | shortsfeed,dailyvlog | minivlog,0.02592592593,0.3684210526,4.324942792
+ytshorts,minivlog | shorts | viral,0.03333333333,0.2368421053,4.263157895
+minivlog | shorts | viral,ytshorts,0.03333333333,0.6,4.263157895
+dailyvlog,minivlog | trendingshorts,0.02592592593,0.1891891892,4.256756757
+dailyvlog,morningroutine,0.02592592593,0.1891891892,4.256756757
+minivlog | trendingshorts,dailyvlog,0.02592592593,0.5833333333,4.256756757
+morningroutine,dailyvlog,0.02592592593,0.5833333333,4.256756757
+shorts | ytshorts,shortvideo,0.02962962963,0.2962962963,4.210526316
+shortvideo,shorts | ytshorts,0.02962962963,0.4210526316,4.210526316
+youtubeshorts,minivlog | shorts | viral,0.03703703704,0.2325581395,4.186046512
+minivlog | shorts | viral,youtubeshorts,0.03703703704,0.6666666667,4.186046512
+shorts | viralshorts,ytshorts,0.02592592593,0.5833333333,4.144736842
+ytshorts,shorts | viralshorts,0.02592592593,0.1842105263,4.144736842
+food | ytshorts,shorts | viral,0.03333333333,0.6428571429,4.132653061
+shorts | viral,food | ytshorts,0.03333333333,0.2142857143,4.132653061
+shorts | viral,trending | youtubeshorts,0.03333333333,0.2142857143,4.132653061
+trending | youtubeshorts,shorts | viral,0.03333333333,0.6428571429,4.132653061
+dailyvlog | vlog,minivlog | shorts,0.02962962963,0.5333333333,4.114285714
+minivlog | shorts,dailyvlog | vlog,0.02962962963,0.2285714286,4.114285714
+minivlog | viral | vlog,shorts | youtubeshorts,0.02962962963,0.380952381,4.114285714
+shorts | youtubeshorts,minivlog | viral | vlog,0.02962962963,0.32,4.114285714
+shorts | shortsfeed,ytshorts,0.04074074074,0.5789473684,4.113573407
+ytshorts,shorts | shortsfeed,0.04074074074,0.2894736842,4.113573407
+shortvideo | trending,shorts | viral,0.02592592593,0.6363636364,4.090909091
+vlog | ytshorts,shorts | viral,0.02592592593,0.6363636364,4.090909091
+shorts | viral,shortvideo | trending,0.02592592593,0.1666666667,4.090909091
+shorts | viral,vlog | ytshorts,0.02592592593,0.1666666667,4.090909091
+minivlog | viral,shorts | youtubeshorts,0.03703703704,0.3703703704,4
+shorts | youtubeshorts,minivlog | viral,0.03703703704,0.4,4
+shorts | ytshorts,trending | viral,0.03703703704,0.3703703704,4
+trending | viral,shorts | ytshorts,0.03703703704,0.4,4
+food | shorts | ytshorts,youtubeshorts,0.02592592593,0.6363636364,3.99577167
+minivlog | viral | ytshorts,youtubeshorts,0.02592592593,0.6363636364,3.99577167
+shorts | viral | youtubeshorts | ytshorts,trending,0.02592592593,0.6363636364,3.99577167
+trending,shorts | viral | youtubeshorts | ytshorts,0.02592592593,0.1627906977,3.99577167
+youtube,youtubeshorts,0.02592592593,0.6363636364,3.99577167
+youtubeshorts,food | shorts | ytshorts,0.02592592593,0.1627906977,3.99577167
+youtubeshorts,minivlog | viral | ytshorts,0.02592592593,0.1627906977,3.99577167
+youtubeshorts,youtube,0.02592592593,0.1627906977,3.99577167
+shortvideo,trending | viral,0.02592592593,0.3684210526,3.978947368
+trending | viral,shortvideo,0.02592592593,0.28,3.978947368
+dailyvlog,shortsfeed | viral,0.02592592593,0.1891891892,3.929313929
+shortsfeed | viral,dailyvlog,0.02592592593,0.5384615385,3.929313929
+shorts | trending | ytshorts,viral,0.03703703704,1,3.913043478
+viral,shorts | trending | ytshorts,0.03703703704,0.1449275362,3.913043478
+minivlog | vlog | ytshorts,viral,0.02962962963,1,3.913043478
+shorts | shortvideo | ytshorts,viral,0.02962962963,1,3.913043478
+food | shorts | youtubeshorts,viral,0.02592592593,1,3.913043478
+food | shorts | youtubeshorts | ytshorts,viral,0.02592592593,1,3.913043478
+fyp | shorts | ytshorts,viral,0.02592592593,1,3.913043478
+fyp | ytshorts,viral,0.02592592593,1,3.913043478
+new | shorts,viral,0.02592592593,1,3.913043478
+shorts | shortvideo | trending | ytshorts,viral,0.02592592593,1,3.913043478
+shorts | trending | youtubeshorts | ytshorts,viral,0.02592592593,1,3.913043478
+viral,food | shorts | youtubeshorts,0.02592592593,0.1014492754,3.913043478
+viral,food | shorts | youtubeshorts | ytshorts,0.02592592593,0.1014492754,3.913043478
+viral,fyp | shorts | ytshorts,0.02592592593,0.1014492754,3.913043478
+viral,fyp | ytshorts,0.02592592593,0.1014492754,3.913043478
+viral,new | shorts,0.02592592593,0.1014492754,3.913043478
+viral,shorts | shortvideo | trending | ytshorts,0.02592592593,0.1014492754,3.913043478
+viral,shorts | trending | youtubeshorts | ytshorts,0.02592592593,0.1014492754,3.913043478
+dailyvlog | minivlog,viral | vlog,0.03333333333,0.3913043478,3.913043478
+viral | vlog,dailyvlog | minivlog,0.03333333333,0.3333333333,3.913043478
+viral,minivlog | vlog | ytshorts,0.02962962963,0.115942029,3.913043478
+viral,shorts | shortvideo | ytshorts,0.02962962963,0.115942029,3.913043478
+dailyvlog | minivlog,vlog | youtubeshorts,0.02592592593,0.3043478261,3.913043478
+vlog | youtubeshorts,dailyvlog | minivlog,0.02592592593,0.3333333333,3.913043478
+food,viral | youtubeshorts,0.02592592593,0.3181818182,3.904958678
+minivlog | youtubeshorts,viral | ytshorts,0.02592592593,0.3181818182,3.904958678
+viral | youtubeshorts,food,0.02592592593,0.3181818182,3.904958678
+viral | ytshorts,minivlog | youtubeshorts,0.02592592593,0.3181818182,3.904958678
+fyp,shorts | ytshorts,0.02592592593,0.3888888889,3.888888889
+shorts | ytshorts,fyp,0.02592592593,0.2592592593,3.888888889
+shorts | youtubeshorts,trending | viral,0.03333333333,0.36,3.888
+trending | viral,shorts | youtubeshorts,0.03333333333,0.36,3.888
+viral | youtubeshorts,ytshorts,0.04444444444,0.5454545455,3.875598086
+ytshorts,viral | youtubeshorts,0.04444444444,0.3157894737,3.875598086
+shorts | shortvideo,trending,0.02962962963,0.6153846154,3.864042934
+shorts | shortvideo,youtubeshorts,0.02962962963,0.6153846154,3.864042934
+trending,shorts | shortvideo,0.02962962963,0.1860465116,3.864042934
+youtubeshorts,shorts | shortvideo,0.02962962963,0.1860465116,3.864042934
+dailyvlog,minivlog | ytshorts,0.03333333333,0.2432432432,3.86327504
+minivlog | ytshorts,dailyvlog,0.03333333333,0.5294117647,3.86327504
+ytshorts,dailyvlog | minivlog | shorts,0.02592592593,0.1842105263,3.825910931
+dailyvlog | minivlog | shorts,ytshorts,0.02592592593,0.5384615385,3.825910931
+whatieatinaday,ytshorts,0.02962962963,0.5333333333,3.789473684
+ytshorts,whatieatinaday,0.02962962963,0.2105263158,3.789473684
+motivation,study,0.03703703704,0.4347826087,3.786816269
+study,motivation,0.03703703704,0.3225806452,3.786816269
+minivlog | vlog,viral | youtubeshorts,0.04444444444,0.3076923077,3.776223776
+viral | youtubeshorts,minivlog | vlog,0.04444444444,0.5454545455,3.776223776
+shorts | trending | viral,ytshorts,0.03703703704,0.5263157895,3.739612188
+ytshorts,shorts | trending | viral,0.03703703704,0.2631578947,3.739612188
+viral | ytshorts,dailyvlog | minivlog,0.02592592593,0.3181818182,3.735177866
+dailyvlog | minivlog,viral | ytshorts,0.02592592593,0.3043478261,3.735177866
+dailyvlog | shorts,minivlog | viral,0.02592592593,0.3684210526,3.684210526
+minivlog | viral,dailyvlog | shorts,0.02592592593,0.2592592593,3.684210526
+minivlog | viral,shortvideo,0.02592592593,0.2592592593,3.684210526
+shortvideo,minivlog | viral,0.02592592593,0.3684210526,3.684210526
+minivlog | youtubeshorts,shorts | vlog,0.03333333333,0.4090909091,3.681818182
+viral | youtubeshorts,shorts | vlog,0.03333333333,0.4090909091,3.681818182
+shorts | vlog,minivlog | youtubeshorts,0.03333333333,0.3,3.681818182
+shorts | vlog,viral | youtubeshorts,0.03333333333,0.3,3.681818182
+vlog | youtubeshorts,vlogger,0.02962962963,0.380952381,3.673469388
+vlogger,vlog | youtubeshorts,0.02962962963,0.2857142857,3.673469388
+minivlog | viral,shorts | vlog,0.04074074074,0.4074074074,3.666666667
+shorts | vlog,minivlog | viral,0.04074074074,0.3666666667,3.666666667
+trending,food | viral,0.02592592593,0.1627906977,3.662790698
+trending,shorts | youtubeshorts | ytshorts,0.02592592593,0.1627906977,3.662790698
+trending,viral | youtubeshorts | ytshorts,0.02592592593,0.1627906977,3.662790698
+youtubeshorts,food | viral,0.02592592593,0.1627906977,3.662790698
+food | viral,trending,0.02592592593,0.5833333333,3.662790698
+food | viral,youtubeshorts,0.02592592593,0.5833333333,3.662790698
+shorts | youtubeshorts | ytshorts,trending,0.02592592593,0.5833333333,3.662790698
+viral | youtubeshorts | ytshorts,trending,0.02592592593,0.5833333333,3.662790698
+dailyvlog,minivlog | shorts | vlog,0.02962962963,0.2162162162,3.648648649
+minivlog | shorts | vlog,dailyvlog,0.02962962963,0.5,3.648648649
+shorts | viral | ytshorts,youtubeshorts,0.04074074074,0.5789473684,3.635250918
+shortvideo,trending,0.04074074074,0.5789473684,3.635250918
+trending,shortvideo,0.04074074074,0.2558139535,3.635250918
+youtubeshorts,shorts | viral | ytshorts,0.04074074074,0.2558139535,3.635250918
+minivlog | shorts,trendingshorts,0.02592592593,0.2,3.6
+viral | vlog,shorts | youtubeshorts,0.03333333333,0.3333333333,3.6
+trendingshorts,minivlog | shorts,0.02592592593,0.4666666667,3.6
+shorts | youtubeshorts,viral | vlog,0.03333333333,0.36,3.6
+youtubeshorts,minivlog | viral | vlog,0.04444444444,0.2790697674,3.588039867
+trending,food | ytshorts,0.02962962963,0.1860465116,3.588039867
+youtubeshorts,food | ytshorts,0.02962962963,0.1860465116,3.588039867
+minivlog | viral | vlog,youtubeshorts,0.04444444444,0.5714285714,3.588039867
+food | ytshorts,trending,0.02962962963,0.5714285714,3.588039867
+food | ytshorts,youtubeshorts,0.02962962963,0.5714285714,3.588039867
+shorts | youtubeshorts | ytshorts,viral,0.04074074074,0.9166666667,3.586956522
+viral,shorts | youtubeshorts | ytshorts,0.04074074074,0.1594202899,3.586956522
+minivlog | shorts | youtubeshorts,viral,0.03703703704,0.9090909091,3.557312253
+shorts | shortsfeed | ytshorts,viral,0.03703703704,0.9090909091,3.557312253
+shortsfeed | ytshorts,viral,0.03703703704,0.9090909091,3.557312253
+vlog | ytshorts,viral,0.03703703704,0.9090909091,3.557312253
+viral,minivlog | shorts | youtubeshorts,0.03703703704,0.1449275362,3.557312253
+viral,shorts | shortsfeed | ytshorts,0.03703703704,0.1449275362,3.557312253
+viral,shortsfeed | ytshorts,0.03703703704,0.1449275362,3.557312253
+viral,vlog | ytshorts,0.03703703704,0.1449275362,3.557312253
+viralshorts,ytshorts,0.02962962963,0.5,3.552631579
+ytshorts,viralshorts,0.02962962963,0.2105263158,3.552631579
+minivlog | viral | youtubeshorts,ytshorts,0.02592592593,0.5,3.552631579
+ytshorts,minivlog | viral | youtubeshorts,0.02592592593,0.1842105263,3.552631579
+minivlog | shorts | vlog,youtubeshorts,0.03333333333,0.5625,3.531976744
+shorts | viral | vlog,youtubeshorts,0.03333333333,0.5625,3.531976744
+shorts | viral | youtubeshorts,trending,0.03333333333,0.5625,3.531976744
+trending,shorts | viral | youtubeshorts,0.03333333333,0.2093023256,3.531976744
+trending,youtubeshorts | ytshorts,0.03333333333,0.2093023256,3.531976744
+youtubeshorts,minivlog | shorts | vlog,0.03333333333,0.2093023256,3.531976744
+youtubeshorts,shorts | viral | vlog,0.03333333333,0.2093023256,3.531976744
+youtubeshorts | ytshorts,trending,0.03333333333,0.5625,3.531976744
+shorts | trending | youtubeshorts,viral,0.03333333333,0.9,3.52173913
+viral,shorts | trending | youtubeshorts,0.03333333333,0.1304347826,3.52173913
+viral | youtubeshorts,minivlog | shorts,0.03703703704,0.4545454545,3.506493506
+minivlog | shorts,viral | youtubeshorts,0.03703703704,0.2857142857,3.506493506
+minivlog | shorts | vlog | youtubeshorts,viral,0.02962962963,0.8888888889,3.47826087
+shortvideo | ytshorts,viral,0.02962962963,0.8888888889,3.47826087
+viral,minivlog | shorts | vlog | youtubeshorts,0.02962962963,0.115942029,3.47826087
+viral,shortvideo | ytshorts,0.02962962963,0.115942029,3.47826087
+dailyvlog,viralvideo,0.03703703704,0.2702702703,3.474903475
+viralvideo,dailyvlog,0.03703703704,0.4761904762,3.474903475
+minivlog | vlog,shorts | viral | youtubeshorts,0.02962962963,0.2051282051,3.461538462
+shorts | viral | youtubeshorts,minivlog | vlog,0.02962962963,0.5,3.461538462
+food,shorts | youtubeshorts,0.02592592593,0.3181818182,3.436363636
+food,trending | viral,0.02592592593,0.3181818182,3.436363636
+shorts | youtubeshorts,food,0.02592592593,0.28,3.436363636
+trending | viral,food,0.02592592593,0.28,3.436363636
+viral | ytshorts,youtubeshorts,0.04444444444,0.5454545455,3.424947146
+youtubeshorts,viral | ytshorts,0.04444444444,0.2790697674,3.424947146
+dailyvlog | shorts | ytshorts,viral,0.02592592593,0.875,3.423913043
+food | youtubeshorts,viral,0.02592592593,0.875,3.423913043
+food | youtubeshorts | ytshorts,viral,0.02592592593,0.875,3.423913043
+shorts | shortvideo | trending,viral,0.02592592593,0.875,3.423913043
+shorts | vlog | ytshorts,viral,0.02592592593,0.875,3.423913043
+shortvideo | trending | ytshorts,viral,0.02592592593,0.875,3.423913043
+viral,dailyvlog | shorts | ytshorts,0.02592592593,0.1014492754,3.423913043
+viral,food | youtubeshorts,0.02592592593,0.1014492754,3.423913043
+viral,food | youtubeshorts | ytshorts,0.02592592593,0.1014492754,3.423913043
+viral,shorts | shortvideo | trending,0.02592592593,0.1014492754,3.423913043
+viral,shorts | vlog | ytshorts,0.02592592593,0.1014492754,3.423913043
+viral,shortvideo | trending | ytshorts,0.02592592593,0.1014492754,3.423913043
+ytshorts,shorts | youtubeshorts,0.04444444444,0.3157894737,3.410526316
+shorts | youtubeshorts,ytshorts,0.04444444444,0.48,3.410526316
+dailyvlog,minivlog | shorts | viral,0.02592592593,0.1891891892,3.405405405
+dailyvlog,trendingshorts,0.02592592593,0.1891891892,3.405405405
+minivlog | shorts | viral,dailyvlog,0.02592592593,0.4666666667,3.405405405
+trendingshorts,dailyvlog,0.02592592593,0.4666666667,3.405405405
+shorts | viral,minivlog | ytshorts,0.03333333333,0.2142857143,3.403361345
+minivlog | ytshorts,shorts | viral,0.03333333333,0.5294117647,3.403361345
+youtubeshorts,dailyvlog | minivlog | vlog,0.02592592593,0.1627906977,3.381037567
+youtubeshorts,food | shorts,0.02592592593,0.1627906977,3.381037567
+dailyvlog | minivlog | vlog,youtubeshorts,0.02592592593,0.5384615385,3.381037567
+food | shorts,youtubeshorts,0.02592592593,0.5384615385,3.381037567
+shortvideo,ytshorts,0.03333333333,0.4736842105,3.36565097
+ytshorts,shortvideo,0.03333333333,0.2368421053,3.36565097
+ytshorts,minivlog | trending,0.02962962963,0.2105263158,3.343653251
+minivlog | trending,ytshorts,0.02962962963,0.4705882353,3.343653251
+minivlog | viral,shorts | ytshorts,0.03333333333,0.3333333333,3.333333333
+shorts | ytshorts,minivlog | viral,0.03333333333,0.3333333333,3.333333333
+youtubeshorts,minivlog | ytshorts,0.03333333333,0.2093023256,3.324213406
+minivlog | ytshorts,youtubeshorts,0.03333333333,0.5294117647,3.324213406
+vlog | youtubeshorts,minivlog | shorts,0.03333333333,0.4285714286,3.306122449
+minivlog | shorts,vlog | youtubeshorts,0.03333333333,0.2571428571,3.306122449
+shorts | viral | ytshorts,trending,0.03703703704,0.5263157895,3.304773562
+shortvideo,youtubeshorts,0.03703703704,0.5263157895,3.304773562
+trending,shorts | viral | ytshorts,0.03703703704,0.2325581395,3.304773562
+youtubeshorts,shortvideo,0.03703703704,0.2325581395,3.304773562
+vlogger | youtubeshorts,vlog,0.02962962963,1,3.292682927
+aesthetic | keşfet,vlog,0.02592592593,1,3.292682927
+keşfet,vlog,0.02592592593,1,3.292682927
+vlog,aesthetic | keşfet,0.02592592593,0.08536585366,3.292682927
+vlog,keşfet,0.02592592593,0.08536585366,3.292682927
+vlog,vlogger | youtubeshorts,0.02962962963,0.09756097561,3.292682927
+dailyvlog | minivlog,studyvlog,0.02592592593,0.3043478261,3.286956522
+studyvlog,dailyvlog | minivlog,0.02592592593,0.28,3.286956522
+youtubeshorts,minivlog | viral,0.05185185185,0.3255813953,3.255813953
+minivlog | viral,youtubeshorts,0.05185185185,0.5185185185,3.255813953
+ytshorts,shorts | viral,0.07037037037,0.5,3.214285714
+minivlog | vlog | youtubeshorts,shorts | viral,0.02962962963,0.5,3.214285714
+new,shorts | viral,0.02592592593,0.5,3.214285714
+shorts | viral,new,0.02592592593,0.1666666667,3.214285714
+shorts | viral,ytshorts,0.07037037037,0.4523809524,3.214285714
+shorts | viral,minivlog | vlog | youtubeshorts,0.02962962963,0.1904761905,3.214285714
+dailyvlog,shortsfeed,0.04074074074,0.2972972973,3.210810811
+shortsfeed,dailyvlog,0.04074074074,0.44,3.210810811
+food | shorts | ytshorts,viral,0.03333333333,0.8181818182,3.201581028
+minivlog | shorts | ytshorts,viral,0.03333333333,0.8181818182,3.201581028
+shorts | vlog | youtubeshorts,viral,0.03333333333,0.8181818182,3.201581028
+viral,food | shorts | ytshorts,0.03333333333,0.1304347826,3.201581028
+viral,minivlog | shorts | ytshorts,0.03333333333,0.1304347826,3.201581028
+viral,shorts | vlog | youtubeshorts,0.03333333333,0.1304347826,3.201581028
+dailyvlog,minivlog | vlog | youtubeshorts,0.02592592593,0.1891891892,3.192567568
+minivlog | vlog | youtubeshorts,dailyvlog,0.02592592593,0.4375,3.192567568
+viral | ytshorts,minivlog | shorts,0.03333333333,0.4090909091,3.155844156
+minivlog | shorts,viral | ytshorts,0.03333333333,0.2571428571,3.155844156
+shorts | trending,shortsfeed,0.02592592593,0.2916666667,3.15
+shortsfeed,shorts | trending,0.02592592593,0.28,3.15
+minivlog | shorts,viral | vlog,0.04074074074,0.3142857143,3.142857143
+viral | vlog,minivlog | shorts,0.04074074074,0.4074074074,3.142857143
+vlog | vlogger,youtubeshorts,0.02962962963,0.5,3.139534884
+youtubeshorts,vlog | vlogger,0.02962962963,0.1860465116,3.139534884
+dailyvlog | ytshorts,viral,0.02962962963,0.8,3.130434783
+fyp | shorts,viral,0.02962962963,0.8,3.130434783
+dailyvlog | minivlog,shorts | vlog,0.02962962963,0.347826087,3.130434783
+shorts | vlog,dailyvlog | minivlog,0.02962962963,0.2666666667,3.130434783
+viral,dailyvlog | ytshorts,0.02962962963,0.115942029,3.130434783
+viral,fyp | shorts,0.02962962963,0.115942029,3.130434783
+dailyvlog,minivlog | viral | vlog,0.03333333333,0.2432432432,3.127413127
+minivlog | viral | vlog,dailyvlog,0.03333333333,0.4285714286,3.127413127
+ytshorts,shortsfeed,0.04074074074,0.2894736842,3.126315789
+shortsfeed,ytshorts,0.04074074074,0.44,3.126315789
+shorts | viral | vlog,ytshorts,0.02592592593,0.4375,3.108552632
+ytshorts,shorts | viral | vlog,0.02592592593,0.1842105263,3.108552632
+shorts | trending,viral,0.07037037037,0.7916666667,3.097826087
+viral,shorts | trending,0.07037037037,0.2753623188,3.097826087
+shorts | viral,shortsfeed,0.04444444444,0.2857142857,3.085714286
+minivlog | shorts,shortsfeed,0.03703703704,0.2857142857,3.085714286
+shortsfeed,minivlog | shorts,0.03703703704,0.4,3.085714286
+shortsfeed,shorts | viral,0.04444444444,0.48,3.085714286
+dailyvlog,shorts | shortsfeed,0.02962962963,0.2162162162,3.07254623
+shorts | shortsfeed,dailyvlog,0.02962962963,0.4210526316,3.07254623
+shortvideo,shorts | viral,0.03333333333,0.4736842105,3.045112782
+shorts | viral,shortvideo,0.03333333333,0.2142857143,3.045112782
+dailyvlog | minivlog,shorts | ytshorts,0.02592592593,0.3043478261,3.043478261
+dailyvlog | minivlog | ytshorts,viral,0.02592592593,0.7777777778,3.043478261
+food | trending,viral,0.02592592593,0.7777777778,3.043478261
+minivlog | shorts | trending,viral,0.02592592593,0.7777777778,3.043478261
+minivlog | youtubeshorts | ytshorts,viral,0.02592592593,0.7777777778,3.043478261
+trending | youtubeshorts | ytshorts,viral,0.02592592593,0.7777777778,3.043478261
+viral,dailyvlog | minivlog | ytshorts,0.02592592593,0.1014492754,3.043478261
+viral,food | trending,0.02592592593,0.1014492754,3.043478261
+viral,minivlog | shorts | trending,0.02592592593,0.1014492754,3.043478261
+viral,minivlog | youtubeshorts | ytshorts,0.02592592593,0.1014492754,3.043478261
+viral,trending | youtubeshorts | ytshorts,0.02592592593,0.1014492754,3.043478261
+shorts | ytshorts,dailyvlog | minivlog,0.02592592593,0.2592592593,3.043478261
+shortsfeed,studyvlog,0.02592592593,0.28,3.024
+studyvlog,shortsfeed,0.02592592593,0.28,3.024
+viral | vlog,youtubeshorts,0.04814814815,0.4814814815,3.023255814
+youtubeshorts,viral | vlog,0.04814814815,0.3023255814,3.023255814
+trending | ytshorts,viral,0.03703703704,0.7692307692,3.010033445
+viral,trending | ytshorts,0.03703703704,0.1449275362,3.010033445
+dailyvlog | viral | vlog,minivlog,0.03333333333,1,3
+minivlog,dailyvlog | viral | vlog,0.03333333333,0.1,3
+dailyvlog | youtubeshorts,minivlog,0.02962962963,1,3
+minivlog,dailyvlog | youtubeshorts,0.02962962963,0.08888888889,3
+dailyvlog | trendingshorts,minivlog,0.02592592593,1,3
+dailyvlog | vlog | youtubeshorts,minivlog,0.02592592593,1,3
+indianvlogger | vlog,minivlog,0.02592592593,1,3
+minivlog,dailyvlog | trendingshorts,0.02592592593,0.07777777778,3
+minivlog,dailyvlog | vlog | youtubeshorts,0.02592592593,0.07777777778,3
+minivlog,indianvlogger | vlog,0.02592592593,0.07777777778,3
+minivlog,shorts | trendingshorts,0.02592592593,0.07777777778,3
+shorts | trendingshorts,minivlog,0.02592592593,1,3
+dailyvlog | shorts,ytshorts,0.02962962963,0.4210526316,2.991689751
+ytshorts,dailyvlog | shorts,0.02962962963,0.2105263158,2.991689751
+shorts | trending | viral,youtubeshorts,0.03333333333,0.4736842105,2.974296206
+youtubeshorts,shorts | trending | viral,0.03333333333,0.2093023256,2.974296206
+dailyvlog | minivlog | viral,vlog,0.03333333333,0.9,2.963414634
+vlog,dailyvlog | minivlog | viral,0.03333333333,0.1097560976,2.963414634
+shorts | trending,ytshorts,0.03703703704,0.4166666667,2.960526316
+ytshorts,shorts | trending,0.03703703704,0.2631578947,2.960526316
+trending,minivlog | ytshorts,0.02962962963,0.1860465116,2.954856361
+youtubeshorts,minivlog | trending,0.02962962963,0.1860465116,2.954856361
+minivlog | trending,youtubeshorts,0.02962962963,0.4705882353,2.954856361
+minivlog | ytshorts,trending,0.02962962963,0.4705882353,2.954856361
+minivlog | vlog | youtubeshorts,viral,0.04444444444,0.75,2.934782609
+youtubeshorts | ytshorts,viral,0.04444444444,0.75,2.934782609
+viral,minivlog | vlog | youtubeshorts,0.04444444444,0.1739130435,2.934782609
+viral,youtubeshorts | ytshorts,0.04444444444,0.1739130435,2.934782609
+trending,minivlog | shorts | viral,0.02592592593,0.1627906977,2.930232558
+youtubeshorts,dailyvlog | vlog,0.02592592593,0.1627906977,2.930232558
+dailyvlog | vlog,youtubeshorts,0.02592592593,0.4666666667,2.930232558
+minivlog | shorts | viral,trending,0.02592592593,0.4666666667,2.930232558
+minivlog | youtubeshorts,shorts | viral,0.03703703704,0.4545454545,2.922077922
+shorts | viral,minivlog | youtubeshorts,0.03703703704,0.2380952381,2.922077922
+dailyvlog,studyvlog,0.03703703704,0.2702702703,2.918918919
+studyvlog,dailyvlog,0.03703703704,0.4,2.918918919
+minivlog | viral,shorts | trending,0.02592592593,0.2592592593,2.916666667
+shorts | trending,minivlog | viral,0.02592592593,0.2916666667,2.916666667
+minivlog | vlog,dailyvlog | shorts,0.02962962963,0.2051282051,2.914979757
+dailyvlog | shorts,minivlog | vlog,0.02962962963,0.4210526316,2.914979757
+minivlog | youtubeshorts,ytshorts,0.03333333333,0.4090909091,2.906698565
+ytshorts,minivlog | youtubeshorts,0.03333333333,0.2368421053,2.906698565
+ytshorts,minivlog | viral,0.04074074074,0.2894736842,2.894736842
+minivlog | viral,ytshorts,0.04074074074,0.4074074074,2.894736842
+aesthetic | preppy,vlog,0.02592592593,0.875,2.881097561
+dailyvlog | minivlog | youtubeshorts,vlog,0.02592592593,0.875,2.881097561
+dailyvlog | youtubeshorts,vlog,0.02592592593,0.875,2.881097561
+indianvlogger | minivlog,vlog,0.02592592593,0.875,2.881097561
+preppy,vlog,0.02592592593,0.875,2.881097561
+vlog,aesthetic | preppy,0.02592592593,0.08536585366,2.881097561
+vlog,dailyvlog | minivlog | youtubeshorts,0.02592592593,0.08536585366,2.881097561
+vlog,dailyvlog | youtubeshorts,0.02592592593,0.08536585366,2.881097561
+vlog,indianvlogger | minivlog,0.02592592593,0.08536585366,2.881097561
+vlog,preppy,0.02592592593,0.08536585366,2.881097561
+viral | ytshorts,shorts | vlog,0.02592592593,0.3181818182,2.863636364
+shorts | vlog,viral | ytshorts,0.02592592593,0.2333333333,2.863636364
+shorts | viral,fyp,0.02962962963,0.1904761905,2.857142857
+fyp,shorts | viral,0.02962962963,0.4444444444,2.857142857
+trending,viral | youtubeshorts,0.03703703704,0.2325581395,2.854122622
+trending,viral | ytshorts,0.03703703704,0.2325581395,2.854122622
+viral | youtubeshorts,trending,0.03703703704,0.4545454545,2.854122622
+viral | ytshorts,trending,0.03703703704,0.4545454545,2.854122622
+trending | viral,ytshorts,0.03703703704,0.4,2.842105263
+ytshorts,trending | viral,0.03703703704,0.2631578947,2.842105263
+minivlog | shorts,shortvideo,0.02592592593,0.2,2.842105263
+shortvideo,minivlog | shorts,0.02592592593,0.3684210526,2.842105263
+shorts | viral,trending,0.07037037037,0.4523809524,2.840531561
+trending,shorts | viral,0.07037037037,0.4418604651,2.840531561
+minivlog | viral | youtubeshorts,vlog,0.04444444444,0.8571428571,2.822299652
+vlog,minivlog | viral | youtubeshorts,0.04444444444,0.1463414634,2.822299652
+viralshorts,shorts | viral,0.02592592593,0.4375,2.8125
+shorts | viral,viralshorts,0.02592592593,0.1666666667,2.8125
+shortsfeed,minivlog | viral,0.02592592593,0.28,2.8
+shortsfeed,viral | vlog,0.02592592593,0.28,2.8
+minivlog | viral,shortsfeed,0.02592592593,0.2592592593,2.8
+viral | vlog,shortsfeed,0.02592592593,0.2592592593,2.8
+food | ytshorts,viral,0.03703703704,0.7142857143,2.795031056
+trending | youtubeshorts,viral,0.03703703704,0.7142857143,2.795031056
+viral,food | ytshorts,0.03703703704,0.1449275362,2.795031056
+viral,trending | youtubeshorts,0.03703703704,0.1449275362,2.795031056
+shorts | ytshorts,youtubeshorts,0.04444444444,0.4444444444,2.790697674
+youtubeshorts,shorts | ytshorts,0.04444444444,0.2790697674,2.790697674
+dailyvlog | minivlog,ytshorts,0.03333333333,0.3913043478,2.780320366
+ytshorts,dailyvlog | minivlog,0.03333333333,0.2368421053,2.780320366
+viral | vlog | youtubeshorts,minivlog,0.04444444444,0.9230769231,2.769230769
+minivlog,viral | vlog | youtubeshorts,0.04444444444,0.1333333333,2.769230769
+fyp,ytshorts,0.02592592593,0.3888888889,2.763157895
+ytshorts,fyp,0.02592592593,0.1842105263,2.763157895
+shorts | viral,vlog | youtubeshorts,0.03333333333,0.2142857143,2.755102041
+vlog | youtubeshorts,shorts | viral,0.03333333333,0.4285714286,2.755102041
+shorts | ytshorts,viral,0.07037037037,0.7037037037,2.753623188
+viral,shorts | ytshorts,0.07037037037,0.2753623188,2.753623188
+minivlog | shortvideo,viral,0.02592592593,0.7,2.739130435
+shorts | vlogger,viral,0.02592592593,0.7,2.739130435
+shortvideo | youtubeshorts,viral,0.02592592593,0.7,2.739130435
+viral,minivlog | shortvideo,0.02592592593,0.1014492754,2.739130435
+viral,shorts | vlogger,0.02592592593,0.1014492754,2.739130435
+viral,shortvideo | youtubeshorts,0.02592592593,0.1014492754,2.739130435
+dailyvlog | shortsfeed,minivlog,0.03703703704,0.9090909091,2.727272727
+minivlog,dailyvlog | shortsfeed,0.03703703704,0.1111111111,2.727272727
+dailyvlog,minivlog | shorts,0.04814814815,0.3513513514,2.71042471
+minivlog | shorts,dailyvlog,0.04814814815,0.3714285714,2.71042471
+dailyvlog | minivlog | vlog,viral,0.03333333333,0.6923076923,2.7090301
+food | shorts,viral,0.03333333333,0.6923076923,2.7090301
+shorts | shortvideo,viral,0.03333333333,0.6923076923,2.7090301
+viral,dailyvlog | minivlog | vlog,0.03333333333,0.1304347826,2.7090301
+viral,food | shorts,0.03333333333,0.1304347826,2.7090301
+viral,shorts | shortvideo,0.03333333333,0.1304347826,2.7090301
+minivlog | viral | vlog,ytshorts,0.02962962963,0.380952381,2.706766917
+ytshorts,minivlog | viral | vlog,0.02962962963,0.2105263158,2.706766917
+dailyvlog,minivlog | viral,0.03703703704,0.2702702703,2.702702703
+minivlog | viral,dailyvlog,0.03703703704,0.3703703704,2.702702703
+dailyvlog | ytshorts,minivlog,0.03333333333,0.9,2.7
+minivlog,dailyvlog | ytshorts,0.03333333333,0.1,2.7
+minivlog | shorts | youtubeshorts,vlog,0.03333333333,0.8181818182,2.694013304
+vlog,minivlog | shorts | youtubeshorts,0.03333333333,0.1097560976,2.694013304
+minivlog | shorts | vlog,viral,0.04074074074,0.6875,2.690217391
+viral,minivlog | shorts | vlog,0.04074074074,0.1594202899,2.690217391
+dailyvlog,shorts | viral | ytshorts,0.02592592593,0.1891891892,2.688477952
+dailyvlog,shortvideo,0.02592592593,0.1891891892,2.688477952
+shorts | viral | ytshorts,dailyvlog,0.02592592593,0.3684210526,2.688477952
+shortvideo,dailyvlog,0.02592592593,0.3684210526,2.688477952
+minivlog,dailyvlog | shorts | vlog,0.02962962963,0.08888888889,2.666666667
+minivlog,shorts | viral | vlog | youtubeshorts,0.02962962963,0.08888888889,2.666666667
+minivlog,shortsfeed | shortvideo,0.02962962963,0.08888888889,2.666666667
+dailyvlog | shorts | vlog,minivlog,0.02962962963,0.8888888889,2.666666667
+shorts | viral | vlog | youtubeshorts,minivlog,0.02962962963,0.8888888889,2.666666667
+shortsfeed | shortvideo,minivlog,0.02962962963,0.8888888889,2.666666667
+minivlog | youtubeshorts,dailyvlog,0.02962962963,0.3636363636,2.653562654
+viral | ytshorts,dailyvlog,0.02962962963,0.3636363636,2.653562654
+dailyvlog,minivlog | youtubeshorts,0.02962962963,0.2162162162,2.653562654
+dailyvlog,viral | ytshorts,0.02962962963,0.2162162162,2.653562654
+minivlog | trending,shorts | viral,0.02592592593,0.4117647059,2.647058824
+shorts | viral,minivlog | trending,0.02592592593,0.1666666667,2.647058824
+youtubeshorts,ytshorts,0.05925925926,0.3720930233,2.643818849
+ytshorts,youtubeshorts,0.05925925926,0.4210526316,2.643818849
+minivlog | shorts | viral | youtubeshorts,vlog,0.02962962963,0.8,2.634146341
+minivlog | vlogger,vlog,0.02962962963,0.8,2.634146341
+shorts | vlogger,vlog,0.02962962963,0.8,2.634146341
+vlog,minivlog | shorts | viral | youtubeshorts,0.02962962963,0.09756097561,2.634146341
+vlog,minivlog | vlogger,0.02962962963,0.09756097561,2.634146341
+vlog,shorts | vlogger,0.02962962963,0.09756097561,2.634146341
+viral | vlog,ytshorts,0.03703703704,0.3703703704,2.631578947
+ytshorts,viral | vlog,0.03703703704,0.2631578947,2.631578947
+food,shorts | viral,0.03333333333,0.4090909091,2.62987013
+shorts | viral,food,0.03333333333,0.2142857143,2.62987013
+dailyvlog | shorts | shortsfeed,minivlog,0.02592592593,0.875,2.625
+dailyvlog | shorts | viral,minivlog,0.02592592593,0.875,2.625
+dailyvlog | shorts | ytshorts,minivlog,0.02592592593,0.875,2.625
+dailyvlog | viral | ytshorts,minivlog,0.02592592593,0.875,2.625
+minivlog,dailyvlog | shorts | shortsfeed,0.02592592593,0.07777777778,2.625
+minivlog,dailyvlog | shorts | viral,0.02592592593,0.07777777778,2.625
+minivlog,dailyvlog | shorts | ytshorts,0.02592592593,0.07777777778,2.625
+minivlog,dailyvlog | viral | ytshorts,0.02592592593,0.07777777778,2.625
+minivlog,shortsfeed | trendingshorts,0.02592592593,0.07777777778,2.625
+minivlog,viralshorts | ytshorts,0.02592592593,0.07777777778,2.625
+shortsfeed | trendingshorts,minivlog,0.02592592593,0.875,2.625
+viralshorts | ytshorts,minivlog,0.02592592593,0.875,2.625
+shorts | trending,youtubeshorts,0.03703703704,0.4166666667,2.61627907
+youtubeshorts,shorts | trending,0.03703703704,0.2325581395,2.61627907
+dailyvlog | vlog,minivlog,0.04814814815,0.8666666667,2.6
+minivlog,dailyvlog | vlog,0.04814814815,0.1444444444,2.6
+shorts | ytshorts,viral | vlog,0.02592592593,0.2592592593,2.592592593
+viral | vlog,shorts | ytshorts,0.02592592593,0.2592592593,2.592592593
+minivlog | vlog,youtubeshorts,0.05925925926,0.4102564103,2.576028623
+youtubeshorts,minivlog | vlog,0.05925925926,0.3720930233,2.576028623
+shorts | vlog,vlogger,0.02962962963,0.2666666667,2.571428571
+vlogger,shorts | vlog,0.02962962963,0.2857142857,2.571428571
+food,trending,0.03333333333,0.4090909091,2.568710359
+trending,food,0.03333333333,0.2093023256,2.568710359
+minivlog | viral,vlog,0.07777777778,0.7777777778,2.56097561
+vlog,minivlog | viral,0.07777777778,0.256097561,2.56097561
+shorts,shortsfeed | viral | ytshorts,0.03703703704,0.09433962264,2.547169811
+shorts,trending | viral | ytshorts,0.03703703704,0.09433962264,2.547169811
+shorts,shortsfeed | ytshorts,0.04074074074,0.1037735849,2.547169811
+shortsfeed | ytshorts,shorts,0.04074074074,1,2.547169811
+shortsfeed | viral | ytshorts,shorts,0.03703703704,1,2.547169811
+trending | viral | ytshorts,shorts,0.03703703704,1,2.547169811
+shortvideo | viral | ytshorts,shorts,0.02962962963,1,2.547169811
+food | viral | youtubeshorts,shorts,0.02592592593,1,2.547169811
+food | viral | youtubeshorts | ytshorts,shorts,0.02592592593,1,2.547169811
+fyp | viral | ytshorts,shorts,0.02592592593,1,2.547169811
+fyp | ytshorts,shorts,0.02592592593,1,2.547169811
+shorts,food | viral | youtubeshorts,0.02592592593,0.06603773585,2.547169811
+shorts,food | viral | youtubeshorts | ytshorts,0.02592592593,0.06603773585,2.547169811
+shorts,fyp | viral | ytshorts,0.02592592593,0.06603773585,2.547169811
+shorts,fyp | ytshorts,0.02592592593,0.06603773585,2.547169811
+shorts,shortvideo | trending | viral,0.02592592593,0.06603773585,2.547169811
+shorts,shortvideo | trending | viral | ytshorts,0.02592592593,0.06603773585,2.547169811
+shorts,trending | viral | youtubeshorts | ytshorts,0.02592592593,0.06603773585,2.547169811
+shortvideo | trending | viral,shorts,0.02592592593,1,2.547169811
+shortvideo | trending | viral | ytshorts,shorts,0.02592592593,1,2.547169811
+trending | viral | youtubeshorts | ytshorts,shorts,0.02592592593,1,2.547169811
+shorts,shortvideo | viral | ytshorts,0.02962962963,0.07547169811,2.547169811
+minivlog | ytshorts,viral,0.04074074074,0.6470588235,2.531969309
+viral,minivlog | ytshorts,0.04074074074,0.1594202899,2.531969309
+shortsfeed,shorts | vlog,0.02592592593,0.28,2.52
+shorts | vlog,shortsfeed,0.02592592593,0.2333333333,2.52
+minivlog | vlog,viral | ytshorts,0.02962962963,0.2051282051,2.517482517
+viral | ytshorts,minivlog | vlog,0.02962962963,0.3636363636,2.517482517
+new,viral,0.03333333333,0.6428571429,2.51552795
+viral,new,0.03333333333,0.1304347826,2.51552795
+shorts | youtubeshorts,trending,0.03703703704,0.4,2.511627907
+trending,shorts | youtubeshorts,0.03703703704,0.2325581395,2.511627907
+trending | viral,youtubeshorts,0.03703703704,0.4,2.511627907
+youtubeshorts,trending | viral,0.03703703704,0.2325581395,2.511627907
+shorts | youtubeshorts,viral,0.05925925926,0.64,2.504347826
+viral,shorts | youtubeshorts,0.05925925926,0.231884058,2.504347826
+dailyvlog | viral,minivlog,0.03703703704,0.8333333333,2.5
+viral | vlog,vlogger,0.02592592593,0.2592592593,2.5
+vlogger,viral | vlog,0.02592592593,0.25,2.5
+minivlog,dailyvlog | viral,0.03703703704,0.1111111111,2.5
+minivlog | vlog,shorts | youtubeshorts,0.03333333333,0.2307692308,2.492307692
+shorts | youtubeshorts,minivlog | vlog,0.03333333333,0.36,2.492307692
+minivlog | youtubeshorts,viral,0.05185185185,0.6363636364,2.490118577
+dailyvlog | shortsfeed,viral,0.02592592593,0.6363636364,2.490118577
+shortsfeed | vlog,viral,0.02592592593,0.6363636364,2.490118577
+shortvideo | trending,viral,0.02592592593,0.6363636364,2.490118577
+youtube,viral,0.02592592593,0.6363636364,2.490118577
+viral,minivlog | youtubeshorts,0.05185185185,0.2028985507,2.490118577
+viral,dailyvlog | shortsfeed,0.02592592593,0.1014492754,2.490118577
+viral,shortsfeed | vlog,0.02592592593,0.1014492754,2.490118577
+viral,shortvideo | trending,0.02592592593,0.1014492754,2.490118577
+viral,youtube,0.02592592593,0.1014492754,2.490118577
+shorts | shortsfeed,viral,0.04444444444,0.6315789474,2.471395881
+viral,shorts | shortsfeed,0.04444444444,0.1739130435,2.471395881
+dailyvlog | viral,vlog,0.03333333333,0.75,2.469512195
+vlog,dailyvlog | viral,0.03333333333,0.1097560976,2.469512195
+shorts | vlog | youtubeshorts,minivlog,0.03333333333,0.8181818182,2.454545455
+shortsvideo,minivlog,0.03333333333,0.8181818182,2.454545455
+minivlog,shorts | vlog | youtubeshorts,0.03333333333,0.1,2.454545455
+minivlog,shortsvideo,0.03333333333,0.1,2.454545455
+food,minivlog | shorts,0.02592592593,0.3181818182,2.454545455
+minivlog | shorts,food,0.02592592593,0.2,2.454545455
+trending,fyp,0.02592592593,0.1627906977,2.441860465
+fyp,trending,0.02592592593,0.3888888889,2.441860465
+dailyvlog,minivlog | vlog,0.04814814815,0.3513513514,2.432432432
+minivlog | vlog,dailyvlog,0.04814814815,0.3333333333,2.432432432
+dailyvlog,viral | vlog,0.03333333333,0.2432432432,2.432432432
+viral | vlog,dailyvlog,0.03333333333,0.3333333333,2.432432432
+dailyvlog,vlog | youtubeshorts,0.02592592593,0.1891891892,2.432432432
+vlog | youtubeshorts,dailyvlog,0.02592592593,0.3333333333,2.432432432
+vlog | youtubeshorts,viral,0.04814814815,0.619047619,2.422360248
+viral,vlog | youtubeshorts,0.04814814815,0.1884057971,2.422360248
+vlog,minivlog | shorts | viral,0.04074074074,0.1341463415,2.414634146
+minivlog | shorts | viral,vlog,0.04074074074,0.7333333333,2.414634146
+trendingshorts,minivlog,0.04444444444,0.8,2.4
+indianvlogger,minivlog,0.02962962963,0.8,2.4
+minivlog,indianvlogger,0.02962962963,0.08888888889,2.4
+minivlog,viral | vlog | ytshorts,0.02962962963,0.08888888889,2.4
+viral | vlog | ytshorts,minivlog,0.02962962963,0.8,2.4
+minivlog,trendingshorts,0.04444444444,0.1333333333,2.4
+minivlog | youtubeshorts,vlog,0.05925925926,0.7272727273,2.394678492
+minivlog | viral | ytshorts,vlog,0.02962962963,0.7272727273,2.394678492
+vlog,minivlog | youtubeshorts,0.05925925926,0.1951219512,2.394678492
+vlog,minivlog | viral | ytshorts,0.02962962963,0.09756097561,2.394678492
+youtubeshorts,shorts | viral,0.05925925926,0.3720930233,2.392026578
+shorts | viral,youtubeshorts,0.05925925926,0.380952381,2.392026578
+shorts,shortsfeed | viral,0.04444444444,0.1132075472,2.351233672
+shortsfeed | viral,shorts,0.04444444444,0.9230769231,2.351233672
+dailyvlog | vlog,viral,0.03333333333,0.6,2.347826087
+viral,dailyvlog | vlog,0.03333333333,0.1304347826,2.347826087
+shorts,viral | youtubeshorts | ytshorts,0.04074074074,0.1037735849,2.33490566
+viral | youtubeshorts | ytshorts,shorts,0.04074074074,0.9166666667,2.33490566
+viral | vlog,minivlog,0.07777777778,0.7777777778,2.333333333
+dailyvlog | indianvlogger,minivlog,0.02592592593,0.7777777778,2.333333333
+minivlog,dailyvlog | indianvlogger,0.02592592593,0.07777777778,2.333333333
+minivlog,viral | vlog,0.07777777778,0.2333333333,2.333333333
+shorts | ytshorts,trending,0.03703703704,0.3703703704,2.325581395
+trending,shorts | ytshorts,0.03703703704,0.2325581395,2.325581395
+aesthetic,study,0.02962962963,0.2666666667,2.322580645
+study,aesthetic,0.02962962963,0.2580645161,2.322580645
+shorts | shortsfeed,trending,0.02592592593,0.3684210526,2.313341493
+trending,shorts | shortsfeed,0.02592592593,0.1627906977,2.313341493
+vlog,dailyvlog | studyvlog,0.02592592593,0.08536585366,2.304878049
+vlog,indianvlogger,0.02592592593,0.08536585366,2.304878049
+vlog,viral | vlogger,0.02592592593,0.08536585366,2.304878049
+dailyvlog | studyvlog,vlog,0.02592592593,0.7,2.304878049
+indianvlogger,vlog,0.02592592593,0.7,2.304878049
+viral | vlogger,vlog,0.02592592593,0.7,2.304878049
+youtubeshorts,shorts | vlog,0.04074074074,0.2558139535,2.302325581
+shorts | vlog,youtubeshorts,0.04074074074,0.3666666667,2.302325581
+food | viral | ytshorts,shorts,0.03333333333,0.9,2.29245283
+shorts,food | viral | ytshorts,0.03333333333,0.08490566038,2.29245283
+shorts,shortvideo | viral,0.03333333333,0.08490566038,2.29245283
+shorts,trending | viral | youtubeshorts,0.03333333333,0.08490566038,2.29245283
+shortvideo | viral,shorts,0.03333333333,0.9,2.29245283
+trending | viral | youtubeshorts,shorts,0.03333333333,0.9,2.29245283
+minivlog,vlog | youtubeshorts,0.05925925926,0.1777777778,2.285714286
+vlog | youtubeshorts,minivlog,0.05925925926,0.7619047619,2.285714286
+food,youtubeshorts,0.02962962963,0.3636363636,2.283298097
+minivlog | youtubeshorts,trending,0.02962962963,0.3636363636,2.283298097
+trending,minivlog | youtubeshorts,0.02962962963,0.1860465116,2.283298097
+youtubeshorts,food,0.02962962963,0.1860465116,2.283298097
+shorts | viralshorts,viral,0.02592592593,0.5833333333,2.282608696
+trending | vlog,viral,0.02592592593,0.5833333333,2.282608696
+viral,shorts | viralshorts,0.02592592593,0.1014492754,2.282608696
+viral,trending | vlog,0.02592592593,0.1014492754,2.282608696
+trending,viral,0.09259259259,0.5813953488,2.275025278
+viral,trending,0.09259259259,0.3623188406,2.275025278
+ytshorts,viral,0.08148148148,0.5789473684,2.265446224
+viral,ytshorts,0.08148148148,0.3188405797,2.265446224
+foryou,shorts,0.02962962963,0.8888888889,2.264150943
+fyp | viral,shorts,0.02962962963,0.8888888889,2.264150943
+shorts,foryou,0.02962962963,0.07547169811,2.264150943
+shorts,fyp | viral,0.02962962963,0.07547169811,2.264150943
+shorts,shortvideo | ytshorts,0.02962962963,0.07547169811,2.264150943
+shortvideo | ytshorts,shorts,0.02962962963,0.8888888889,2.264150943
+ytshorts,minivlog | shorts,0.04074074074,0.2894736842,2.233082707
+minivlog | shorts,ytshorts,0.04074074074,0.3142857143,2.233082707
+dailyvlog | viral | ytshorts,shorts,0.02592592593,0.875,2.228773585
+food | youtubeshorts,shorts,0.02592592593,0.875,2.228773585
+food | youtubeshorts | ytshorts,shorts,0.02592592593,0.875,2.228773585
+shorts,dailyvlog | viral | ytshorts,0.02592592593,0.06603773585,2.228773585
+shorts,food | youtubeshorts,0.02592592593,0.06603773585,2.228773585
+shorts,food | youtubeshorts | ytshorts,0.02592592593,0.06603773585,2.228773585
+shorts,shortsfeed | trending,0.02592592593,0.06603773585,2.228773585
+shorts,shortvideo | trending | ytshorts,0.02592592593,0.06603773585,2.228773585
+shorts,viralshorts | ytshorts,0.02592592593,0.06603773585,2.228773585
+shorts,whatieatinaday | ytshorts,0.02592592593,0.06603773585,2.228773585
+shortsfeed | trending,shorts,0.02592592593,0.875,2.228773585
+shortvideo | trending | ytshorts,shorts,0.02592592593,0.875,2.228773585
+viralshorts | ytshorts,shorts,0.02592592593,0.875,2.228773585
+whatieatinaday | ytshorts,shorts,0.02592592593,0.875,2.228773585
+minivlog | vlog,shortsfeed,0.02962962963,0.2051282051,2.215384615
+shortsfeed,minivlog | vlog,0.02962962963,0.32,2.215384615
+love,viral,0.03333333333,0.5625,2.201086957
+viralshorts,viral,0.03333333333,0.5625,2.201086957
+viral,love,0.03333333333,0.1304347826,2.201086957
+viral,viralshorts,0.03333333333,0.1304347826,2.201086957
+shorts,viral | ytshorts,0.07037037037,0.179245283,2.199828473
+viral | ytshorts,shorts,0.07037037037,0.8636363636,2.199828473
+dailyvlog,shorts | vlog,0.03333333333,0.2432432432,2.189189189
+shorts | vlog,dailyvlog,0.03333333333,0.3,2.189189189
+dailyvlog | minivlog,youtubeshorts,0.02962962963,0.347826087,2.184024267
+youtubeshorts,dailyvlog | minivlog,0.02962962963,0.1860465116,2.184024267
+shortsfeed | vlog,minivlog,0.02962962963,0.7272727273,2.181818182
+vlog | ytshorts,minivlog,0.02962962963,0.7272727273,2.181818182
+minivlog,shortsfeed | vlog,0.02962962963,0.08888888889,2.181818182
+minivlog,vlog | ytshorts,0.02962962963,0.08888888889,2.181818182
+dailyvlog,shorts | ytshorts,0.02962962963,0.2162162162,2.162162162
+shorts | ytshorts,dailyvlog,0.02962962963,0.2962962963,2.162162162
+minivlog | shorts,trending | viral,0.02592592593,0.2,2.16
+trending | viral,minivlog | shorts,0.02592592593,0.28,2.16
+ytshorts,trending,0.04814814815,0.3421052632,2.148102815
+trending,ytshorts,0.04814814815,0.3023255814,2.148102815
+food,viral,0.04444444444,0.5454545455,2.134387352
+viral,food,0.04444444444,0.1739130435,2.134387352
+minivlog | vlog,viral,0.07777777778,0.5384615385,2.107023411
+viral,minivlog | vlog,0.07777777778,0.3043478261,2.107023411
+dailyvlog | minivlog | shorts,viral,0.02592592593,0.5384615385,2.107023411
+viral,dailyvlog | minivlog | shorts,0.02592592593,0.1014492754,2.107023411
+dailyvlog | studyvlog,minivlog,0.02592592593,0.7,2.1
+minivlog,dailyvlog | studyvlog,0.02592592593,0.07777777778,2.1
+minivlog,shortvideo | viral,0.02592592593,0.07777777778,2.1
+minivlog,studyvlog | vlog,0.02592592593,0.07777777778,2.1
+shortvideo | viral,minivlog,0.02592592593,0.7,2.1
+studyvlog | vlog,minivlog,0.02592592593,0.7,2.1
+college,vlog,0.02592592593,0.6363636364,2.095343681
+minivlog | studyvlog,vlog,0.02592592593,0.6363636364,2.095343681
+vlog,college,0.02592592593,0.08536585366,2.095343681
+vlog,minivlog | studyvlog,0.02592592593,0.08536585366,2.095343681
+trending,minivlog | viral,0.03333333333,0.2093023256,2.093023256
+minivlog | viral,trending,0.03333333333,0.3333333333,2.093023256
+shorts | vlog,viral,0.05925925926,0.5333333333,2.086956522
+viral,shorts | vlog,0.05925925926,0.231884058,2.086956522
+minivlog | viral | ytshorts,shorts,0.03333333333,0.8181818182,2.084048027
+shorts,minivlog | viral | ytshorts,0.03333333333,0.08490566038,2.084048027
+minivlog | trending,viral,0.03333333333,0.5294117647,2.071611253
+viral,minivlog | trending,0.03333333333,0.1304347826,2.071611253
+minivlog,shorts | viral | vlog,0.04074074074,0.1222222222,2.0625
+shorts | viral | vlog,minivlog,0.04074074074,0.6875,2.0625
+shortvideo,viral,0.03703703704,0.5263157895,2.059496568
+viral,shortvideo,0.03703703704,0.1449275362,2.059496568
+dailyvlog | shorts,minivlog,0.04814814815,0.6842105263,2.052631579
+minivlog,dailyvlog | shorts,0.04814814815,0.1444444444,2.052631579
+trending,youtubeshorts,0.05185185185,0.3255813953,2.044348296
+youtubeshorts,trending,0.05185185185,0.3255813953,2.044348296
+dailyvlog | ytshorts,shorts,0.02962962963,0.8,2.037735849
+shorts,dailyvlog | ytshorts,0.02962962963,0.07547169811,2.037735849
+shorts,shortvideo | youtubeshorts,0.02962962963,0.07547169811,2.037735849
+shortvideo | youtubeshorts,shorts,0.02962962963,0.8,2.037735849
+shortsfeed,viral,0.04814814815,0.52,2.034782609
+viral,shortsfeed,0.04814814815,0.1884057971,2.034782609
+dailyvlog | minivlog | shorts,vlog,0.02962962963,0.6153846154,2.026266417
+vlog,dailyvlog | minivlog | shorts,0.02962962963,0.09756097561,2.026266417
+trending,shortsfeed,0.02962962963,0.1860465116,2.009302326
+youtubeshorts,shortsfeed,0.02962962963,0.1860465116,2.009302326
+shortsfeed,trending,0.02962962963,0.32,2.009302326
+shortsfeed,youtubeshorts,0.02962962963,0.32,2.009302326
+youtubeshorts,viral,0.08148148148,0.511627907,2.002022245
+viral,youtubeshorts,0.08148148148,0.3188405797,2.002022245
+food | ytshorts,shorts,0.04074074074,0.7857142857,2.001347709
+shorts,food | ytshorts,0.04074074074,0.1037735849,2.001347709
+minivlog,trending | vlog,0.02962962963,0.08888888889,2
+trending | vlog,minivlog,0.02962962963,0.6666666667,2
+dailyvlog | minivlog | ytshorts,shorts,0.02592592593,0.7777777778,1.981132075
+food | whatieatinaday,shorts,0.02592592593,0.7777777778,1.981132075
+minivlog | trending | viral,shorts,0.02592592593,0.7777777778,1.981132075
+new | viral,shorts,0.02592592593,0.7777777778,1.981132075
+shorts,dailyvlog | minivlog | ytshorts,0.02592592593,0.06603773585,1.981132075
+shorts,food | whatieatinaday,0.02592592593,0.06603773585,1.981132075
+shorts,minivlog | trending | viral,0.02592592593,0.06603773585,1.981132075
+shorts,new | viral,0.02592592593,0.06603773585,1.981132075
+shorts,shortsfeed | shortvideo,0.02592592593,0.06603773585,1.981132075
+shorts,trending | youtubeshorts | ytshorts,0.02592592593,0.06603773585,1.981132075
+shorts,viral | viralshorts,0.02592592593,0.06603773585,1.981132075
+shortsfeed | shortvideo,shorts,0.02592592593,0.7777777778,1.981132075
+trending | youtubeshorts | ytshorts,shorts,0.02592592593,0.7777777778,1.981132075
+viral | viralshorts,shorts,0.02592592593,0.7777777778,1.981132075
+minivlog | vlog,vlogger,0.02962962963,0.2051282051,1.978021978
+vlogger,minivlog | vlog,0.02962962963,0.2857142857,1.978021978
+youtubeshorts,minivlog | shorts,0.04074074074,0.2558139535,1.973421927
+minivlog | shorts,youtubeshorts,0.04074074074,0.3142857143,1.973421927
+shorts,trending | ytshorts,0.03703703704,0.09433962264,1.959361393
+trending | ytshorts,shorts,0.03703703704,0.7692307692,1.959361393
+fyp,viral,0.03333333333,0.5,1.956521739
+viral,fyp,0.03333333333,0.1304347826,1.956521739
+dailyvlog | minivlog,shorts | viral,0.02592592593,0.3043478261,1.956521739
+shorts | viral,dailyvlog | minivlog,0.02592592593,0.1666666667,1.956521739
+dailyvlog,aesthetic,0.02962962963,0.2162162162,1.945945946
+aesthetic,dailyvlog,0.02962962963,0.2666666667,1.945945946
+viral | youtubeshorts,vlog,0.04814814815,0.5909090909,1.945676275
+vlog,viral | youtubeshorts,0.04814814815,0.1585365854,1.945676275
+minivlog | vlog,studyvlog,0.02592592593,0.1794871795,1.938461538
+studyvlog,minivlog | vlog,0.02592592593,0.28,1.938461538
+shorts,shortsfeed,0.07037037037,0.179245283,1.935849057
+shorts,trending | viral,0.07037037037,0.179245283,1.935849057
+shortsfeed,shorts,0.07037037037,0.76,1.935849057
+trending | viral,shorts,0.07037037037,0.76,1.935849057
+dailyvlog,ytshorts,0.03703703704,0.2702702703,1.920341394
+ytshorts,dailyvlog,0.03703703704,0.2631578947,1.920341394
+shorts,viralshorts,0.04444444444,0.1132075472,1.910377358
+shorts,youtubeshorts | ytshorts,0.04444444444,0.1132075472,1.910377358
+viralshorts,shorts,0.04444444444,0.75,1.910377358
+youtubeshorts | ytshorts,shorts,0.04444444444,0.75,1.910377358
+food | viral,shorts,0.03333333333,0.75,1.910377358
+shorts,food | viral,0.03333333333,0.08490566038,1.910377358
+viral | youtubeshorts,minivlog,0.05185185185,0.6363636364,1.909090909
+shortvideo | trending,minivlog,0.02592592593,0.6363636364,1.909090909
+minivlog,viral | youtubeshorts,0.05185185185,0.1555555556,1.909090909
+minivlog,shortvideo | trending,0.02592592593,0.07777777778,1.909090909
+shorts | vlog,ytshorts,0.02962962963,0.2666666667,1.894736842
+ytshorts,shorts | vlog,0.02962962963,0.2105263158,1.894736842
+vlog,vlogger,0.05925925926,0.1951219512,1.881533101
+vlogger,vlog,0.05925925926,0.5714285714,1.881533101
+shorts | viral | youtubeshorts,minivlog,0.03703703704,0.625,1.875
+minivlog,shorts | viral | youtubeshorts,0.03703703704,0.1111111111,1.875
+vlog,aesthetic,0.06296296296,0.2073170732,1.865853659
+aesthetic,vlog,0.06296296296,0.5666666667,1.865853659
+dailyvlog,minivlog,0.08518518519,0.6216216216,1.864864865
+minivlog,dailyvlog,0.08518518519,0.2555555556,1.864864865
+vlog,dailyvlog | minivlog,0.04814814815,0.1585365854,1.861081654
+dailyvlog | minivlog,vlog,0.04814814815,0.5652173913,1.861081654
+viral | youtubeshorts,shorts,0.05925925926,0.7272727273,1.852487136
+dailyvlog | shortsfeed,shorts,0.02962962963,0.7272727273,1.852487136
+shortvideo | trending,shorts,0.02962962963,0.7272727273,1.852487136
+vlog | ytshorts,shorts,0.02962962963,0.7272727273,1.852487136
+shorts,viral | youtubeshorts,0.05925925926,0.1509433962,1.852487136
+shorts,dailyvlog | shortsfeed,0.02962962963,0.07547169811,1.852487136
+shorts,shortvideo | trending,0.02962962963,0.07547169811,1.852487136
+shorts,vlog | ytshorts,0.02962962963,0.07547169811,1.852487136
+shorts | viral | youtubeshorts,vlog,0.03333333333,0.5625,1.852134146
+vlog,shorts | viral | youtubeshorts,0.03333333333,0.1097560976,1.852134146
+minivlog,trending | ytshorts,0.02962962963,0.08888888889,1.846153846
+trending | ytshorts,minivlog,0.02962962963,0.6153846154,1.846153846
+minivlog | shortsfeed,viral,0.02592592593,0.4666666667,1.826086957
+viral,minivlog | shortsfeed,0.02592592593,0.1014492754,1.826086957
+viral,whatieatinaday,0.02592592593,0.1014492754,1.826086957
+whatieatinaday,viral,0.02592592593,0.4666666667,1.826086957
+shorts,minivlog | viral | youtubeshorts,0.03703703704,0.09433962264,1.819407008
+shorts,trending | youtubeshorts,0.03703703704,0.09433962264,1.819407008
+minivlog | viral | youtubeshorts,shorts,0.03703703704,0.7142857143,1.819407008
+trending | youtubeshorts,shorts,0.03703703704,0.7142857143,1.819407008
+minivlog | vlog,shorts | viral,0.04074074074,0.2820512821,1.813186813
+shorts | viral,minivlog | vlog,0.04074074074,0.2619047619,1.813186813
+ytshorts,shorts,0.1,0.7105263158,1.809831182
+shorts,ytshorts,0.1,0.2547169811,1.809831182
+minivlog,shortsfeed,0.05555555556,0.1666666667,1.8
+shortsfeed,minivlog,0.05555555556,0.6,1.8
+youtubeshorts,vlogger,0.02962962963,0.1860465116,1.794019934
+vlogger,youtubeshorts,0.02962962963,0.2857142857,1.794019934
+shorts,dailyvlog | minivlog | shortsfeed,0.02592592593,0.06603773585,1.783018868
+shorts,dailyvlog | minivlog | viral,0.02592592593,0.06603773585,1.783018868
+shorts,food | minivlog,0.02592592593,0.06603773585,1.783018868
+shorts,minivlog | shortvideo,0.02592592593,0.06603773585,1.783018868
+shorts,viral | vlog | ytshorts,0.02592592593,0.06603773585,1.783018868
+shorts,viral | vlogger,0.02592592593,0.06603773585,1.783018868
+dailyvlog | minivlog | shortsfeed,shorts,0.02592592593,0.7,1.783018868
+dailyvlog | minivlog | viral,shorts,0.02592592593,0.7,1.783018868
+food | minivlog,shorts,0.02592592593,0.7,1.783018868
+minivlog | shortvideo,shorts,0.02592592593,0.7,1.783018868
+viral | vlog | ytshorts,shorts,0.02592592593,0.7,1.783018868
+viral | vlogger,shorts,0.02592592593,0.7,1.783018868
+shortsfeed | viral,vlog,0.02592592593,0.5384615385,1.772983114
+vlog,shortsfeed | viral,0.02592592593,0.08536585366,1.772983114
+shorts,viral | vlog | youtubeshorts,0.03333333333,0.08490566038,1.763425254
+viral | vlog | youtubeshorts,shorts,0.03333333333,0.6923076923,1.763425254
+vlog,minivlog | shortsfeed,0.02962962963,0.09756097561,1.756097561
+minivlog | shortsfeed,vlog,0.02962962963,0.5333333333,1.756097561
+viral | youtubeshorts | ytshorts,minivlog,0.02592592593,0.5833333333,1.75
+minivlog,viral | youtubeshorts | ytshorts,0.02592592593,0.07777777778,1.75
+shorts,shortvideo,0.04814814815,0.1226415094,1.742800397
+shortvideo,shorts,0.04814814815,0.6842105263,1.742800397
+minivlog,new,0.02962962963,0.08888888889,1.714285714
+minivlog,trending | youtubeshorts,0.02962962963,0.08888888889,1.714285714
+new,minivlog,0.02962962963,0.5714285714,1.714285714
+trending | youtubeshorts,minivlog,0.02962962963,0.5714285714,1.714285714
+vlog | vlogger,viral,0.02592592593,0.4375,1.711956522
+viral,vlog | vlogger,0.02592592593,0.1014492754,1.711956522
+dailyvlog | minivlog,viral,0.03703703704,0.4347826087,1.701323251
+viral,dailyvlog | minivlog,0.03703703704,0.1449275362,1.701323251
+shorts,minivlog | shortsfeed,0.03703703704,0.09433962264,1.698113208
+minivlog | shortsfeed,shorts,0.03703703704,0.6666666667,1.698113208
+dailyvlog | viral,shorts,0.02962962963,0.6666666667,1.698113208
+minivlog | viral | vlog | youtubeshorts,shorts,0.02962962963,0.6666666667,1.698113208
+morningroutine,shorts,0.02962962963,0.6666666667,1.698113208
+shorts,dailyvlog | viral,0.02962962963,0.07547169811,1.698113208
+shorts,minivlog | viral | vlog | youtubeshorts,0.02962962963,0.07547169811,1.698113208
+shorts,morningroutine,0.02962962963,0.07547169811,1.698113208
+shorts,trending | vlog,0.02962962963,0.07547169811,1.698113208
+trending | vlog,shorts,0.02962962963,0.6666666667,1.698113208
+minivlog,youtubeshorts | ytshorts,0.03333333333,0.1,1.6875
+youtubeshorts | ytshorts,minivlog,0.03333333333,0.5625,1.6875
+minivlog | shorts,viral,0.05555555556,0.4285714286,1.677018634
+viral,minivlog | shorts,0.05555555556,0.2173913043,1.677018634
+trending,shorts | vlog,0.02962962963,0.1860465116,1.674418605
+shorts | vlog,trending,0.02962962963,0.2666666667,1.674418605
+shorts,minivlog | ytshorts,0.04074074074,0.1037735849,1.648168701
+minivlog | ytshorts,shorts,0.04074074074,0.6470588235,1.648168701
+dailyvlog | shorts,viral,0.02962962963,0.4210526316,1.647597254
+viral,dailyvlog | shorts,0.02962962963,0.115942029,1.647597254
+love,vlog,0.02962962963,0.5,1.646341463
+new,vlog,0.02592592593,0.5,1.646341463
+vlog,new,0.02592592593,0.08536585366,1.646341463
+vlog,love,0.02962962963,0.09756097561,1.646341463
+trending,viral | vlog,0.02592592593,0.1627906977,1.627906977
+viral | vlog,trending,0.02592592593,0.2592592593,1.627906977
+shorts,shortsfeed | vlog,0.02592592593,0.06603773585,1.620926244
+shortsfeed | vlog,shorts,0.02592592593,0.6363636364,1.620926244
+food | shorts,minivlog,0.02592592593,0.5384615385,1.615384615
+minivlog,food | shorts,0.02592592593,0.07777777778,1.615384615
+minivlog,shorts | shortvideo,0.02592592593,0.07777777778,1.615384615
+minivlog,shortsfeed | viral,0.02592592593,0.07777777778,1.615384615
+shorts | shortvideo,minivlog,0.02592592593,0.5384615385,1.615384615
+shortsfeed | viral,minivlog,0.02592592593,0.5384615385,1.615384615
+trending,minivlog | shorts,0.03333333333,0.2093023256,1.61461794
+minivlog | shorts,trending,0.03333333333,0.2571428571,1.61461794
+vlog,youtubeshorts,0.07777777778,0.256097561,1.608054453
+youtubeshorts,vlog,0.07777777778,0.488372093,1.608054453
+shorts | viral,vlogger,0.02592592593,0.1666666667,1.607142857
+vlogger,shorts | viral,0.02592592593,0.25,1.607142857
+study,ytshorts,0.02592592593,0.2258064516,1.604414261
+ytshorts,study,0.02592592593,0.1842105263,1.604414261
+minivlog,shorts | vlog,0.05925925926,0.1777777778,1.6
+shorts | vlog,minivlog,0.05925925926,0.5333333333,1.6
+dailyroutine,minivlog,0.02962962963,0.5333333333,1.6
+minivlog,dailyroutine,0.02962962963,0.08888888889,1.6
+shorts | shortsfeed,minivlog,0.03703703704,0.5263157895,1.578947368
+shortvideo,minivlog,0.03703703704,0.5263157895,1.578947368
+minivlog,shorts | shortsfeed,0.03703703704,0.1111111111,1.578947368
+minivlog,shortvideo,0.03703703704,0.1111111111,1.578947368
+dailyvlog | minivlog | vlog,shorts,0.02962962963,0.6153846154,1.567489115
+shorts,dailyvlog | minivlog | vlog,0.02962962963,0.07547169811,1.567489115
+dailyvlog | shorts,vlog,0.03333333333,0.4736842105,1.559691913
+vlog,dailyvlog | shorts,0.03333333333,0.1097560976,1.559691913
+shorts,viral,0.1555555556,0.3962264151,1.550451189
+viral,shorts,0.1555555556,0.6086956522,1.550451189
+vlog,minivlog | trending,0.02962962963,0.09756097561,1.549497848
+vlog,minivlog | ytshorts,0.02962962963,0.09756097561,1.549497848
+minivlog | trending,vlog,0.02962962963,0.4705882353,1.549497848
+minivlog | ytshorts,vlog,0.02962962963,0.4705882353,1.549497848
+youtubeshorts,minivlog,0.08148148148,0.511627907,1.534883721
+minivlog,youtubeshorts,0.08148148148,0.2444444444,1.534883721
+shorts,dailyroutine,0.03333333333,0.08490566038,1.528301887
+shorts,dailyvlog | vlog,0.03333333333,0.08490566038,1.528301887
+dailyroutine,shorts,0.03333333333,0.6,1.528301887
+dailyvlog | vlog,shorts,0.03333333333,0.6,1.528301887
+shorts,viral | vlog,0.05925925926,0.1509433962,1.509433962
+viral | vlog,shorts,0.05925925926,0.5925925926,1.509433962
+minivlog | shorts,vlog,0.05925925926,0.4571428571,1.505226481
+vlog,minivlog | shorts,0.05925925926,0.1951219512,1.505226481
+food,shorts,0.04814814815,0.5909090909,1.505145798
+shorts,food,0.04814814815,0.1226415094,1.505145798
+viral | ytshorts,minivlog,0.04074074074,0.5,1.5
+minivlog,vlog | vlogger,0.02962962963,0.08888888889,1.5
+vlog | vlogger,minivlog,0.02962962963,0.5,1.5
+minivlog,viral | ytshorts,0.04074074074,0.1222222222,1.5
+viral | ytshorts,vlog,0.03703703704,0.4545454545,1.496674058
+vlog,viral | ytshorts,0.03703703704,0.1219512195,1.496674058
+minivlog | trendingshorts,shorts,0.02592592593,0.5833333333,1.485849057
+shorts,minivlog | trendingshorts,0.02592592593,0.06603773585,1.485849057
+youtubeshorts,shorts,0.09259259259,0.5813953488,1.480912681
+shorts,youtubeshorts,0.09259259259,0.2358490566,1.480912681
+minivlog | vlog,ytshorts,0.02962962963,0.2051282051,1.457489879
+ytshorts,minivlog | vlog,0.02962962963,0.2105263158,1.457489879
+vlog,shorts | youtubeshorts,0.04074074074,0.1341463415,1.448780488
+vlog,shortsfeed,0.04074074074,0.1341463415,1.448780488
+shorts | youtubeshorts,vlog,0.04074074074,0.44,1.448780488
+shortsfeed,vlog,0.04074074074,0.44,1.448780488
+shorts,dailyvlog | minivlog,0.04814814815,0.1226415094,1.439704676
+dailyvlog | minivlog,shorts,0.04814814815,0.5652173913,1.439704676
+minivlog | vlog | youtubeshorts,shorts,0.03333333333,0.5625,1.432783019
+shorts,minivlog | vlog | youtubeshorts,0.03333333333,0.08490566038,1.432783019
+viralvideo,minivlog,0.03703703704,0.4761904762,1.428571429
+minivlog,viralvideo,0.03703703704,0.1111111111,1.428571429
+vlog,minivlog,0.1444444444,0.4756097561,1.426829268
+minivlog,vlog,0.1444444444,0.4333333333,1.426829268
+shorts,trending,0.08888888889,0.2264150943,1.421676174
+trending,shorts,0.08888888889,0.5581395349,1.421676174
+minivlog,shorts | viral | ytshorts,0.03333333333,0.1,1.421052632
+shorts | viral | ytshorts,minivlog,0.03333333333,0.4736842105,1.421052632
+minivlog | viral,shorts,0.05555555556,0.5555555556,1.41509434
+fyp,shorts,0.03703703704,0.5555555556,1.41509434
+shorts,fyp,0.03703703704,0.09433962264,1.41509434
+shorts,minivlog | viral,0.05555555556,0.141509434,1.41509434
+minivlog,whatieatinaday,0.02592592593,0.07777777778,1.4
+whatieatinaday,minivlog,0.02592592593,0.4666666667,1.4
+viral,vlogger,0.03703703704,0.1449275362,1.397515528
+vlogger,viral,0.03703703704,0.3571428571,1.397515528
+dailyvlog,shorts | viral,0.02962962963,0.2162162162,1.38996139
+shorts | viral,dailyvlog,0.02962962963,0.1904761905,1.38996139
+shortvideo,vlog,0.02962962963,0.4210526316,1.386392811
+vlog,shortvideo,0.02962962963,0.09756097561,1.386392811
+study,vlog,0.04814814815,0.4193548387,1.380802518
+vlog,study,0.04814814815,0.1585365854,1.380802518
+food,minivlog,0.03703703704,0.4545454545,1.363636364
+minivlog,food,0.03703703704,0.1111111111,1.363636364
+shorts,whatieatinaday,0.02962962963,0.07547169811,1.358490566
+whatieatinaday,shorts,0.02962962963,0.5333333333,1.358490566
+dailyvlog,trending,0.02962962963,0.2162162162,1.357636706
+dailyvlog,youtubeshorts,0.02962962963,0.2162162162,1.357636706
+trending,dailyvlog,0.02962962963,0.1860465116,1.357636706
+youtubeshorts,dailyvlog,0.02962962963,0.1860465116,1.357636706
+minivlog | trending,shorts,0.03333333333,0.5294117647,1.348501665
+shorts,minivlog | trending,0.03333333333,0.08490566038,1.348501665
+ytshorts,minivlog,0.06296296296,0.4473684211,1.342105263
+minivlog,ytshorts,0.06296296296,0.1888888889,1.342105263
+dailyvlog,vlog,0.05555555556,0.4054054054,1.334871457
+vlog,dailyvlog,0.05555555556,0.1829268293,1.334871457
+minivlog | viral | vlog,shorts,0.04074074074,0.5238095238,1.334231806
+shorts,minivlog | viral | vlog,0.04074074074,0.1037735849,1.334231806
+shorts,vlog | youtubeshorts,0.04074074074,0.1037735849,1.334231806
+vlog | youtubeshorts,shorts,0.04074074074,0.5238095238,1.334231806
+minivlog,shorts | youtubeshorts,0.04074074074,0.1222222222,1.32
+minivlog,studyvlog,0.04074074074,0.1222222222,1.32
+shorts | youtubeshorts,minivlog,0.04074074074,0.44,1.32
+studyvlog,minivlog,0.04074074074,0.44,1.32
+studyvlog,vlog,0.03703703704,0.4,1.317073171
+vlog,studyvlog,0.03703703704,0.1219512195,1.317073171
+love,minivlog,0.02592592593,0.4375,1.3125
+minivlog,love,0.02592592593,0.07777777778,1.3125
+minivlog,viralshorts,0.02592592593,0.07777777778,1.3125
+viralshorts,minivlog,0.02592592593,0.4375,1.3125
+dailyvlog,shorts,0.07037037037,0.5135135135,1.308006119
+shorts,dailyvlog,0.07037037037,0.179245283,1.308006119

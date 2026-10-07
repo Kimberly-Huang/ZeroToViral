@@ -1,42 +1,17 @@
-# Python
 __pycache__/
 *.py[cod]
-*.pyo
-*.pyd
-.Python
-env/
+.venv/
 venv/
 .env
-*.egg-info/
-dist/
-build/
-
-# Jupyter
+*.env
+.cache/
 .ipynb_checkpoints/
-*.ipynb_checkpoints
-
-# Data (keep CSVs in data/ but ignore any auto-generated outputs)
-outputs/nlp_outputs/
-outputs/*.png
-outputs/*.csv
-content_golden_windows/
-nlp_outputs_revised/
-
-# Generated chart files (saved at notebook level)
-*.png
-appendix_rules_*.csv
-5_*.csv
-golden_windows.csv
-
-# OS
 .DS_Store
 Thumbs.db
-
-# IDE
 .vscode/
 .idea/
-
-# API keys — never commit these
-*.env
+outputs/*
+!outputs/.gitkeep
+!outputs/README.md
 secrets.py
 config_secret.py

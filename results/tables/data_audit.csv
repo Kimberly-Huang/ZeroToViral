@@ -1,0 +1,6 @@
+dataset,rows,unique_videos,unique_channels,zero_views,zero_subscribers,like_rate_above_one
+raw_collection,1108,1090,1071,29,26,1
+micro_snapshot,1090,1090,1053,29,26,1
+large_snapshot,1177,1177,1146,0,0,0
+micro_analysis,1035,1035,1001,0,0,0
+large_analysis,1174,1174,1143,0,0,0
